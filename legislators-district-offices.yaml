@@ -8814,25 +8814,6 @@
     bioguide: M001216
     govtrack: 456889
   offices:
-  - id: M001216-port_orange
-    address: 1000 City Center Circle
-    city: Port Orange
-    state: FL
-    zip: '32129'
-    latitude: 29.12647699999999
-    longitude: -81.0207542
-    hours: By appointment only
-    phone: 386-238-9711
-  - id: M001216-lake_mary
-    address: 1525 International Pkwy
-    suite: Number 1051
-    city: Lake Mary
-    state: FL
-    zip: '32746'
-    latitude: 28.7849195
-    longitude: -81.3567486
-    hours: By appointment only
-    phone: 407-638-7900
 - id:
     bioguide: M001217
     govtrack: 456893
