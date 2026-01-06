@@ -6826,62 +6826,44 @@
     bioguide: K000398
     govtrack: 456917
   offices:
-  - id: K000398-mountainside
-    address: 1385 US Highway 22 East
-    building: Mountainside Borough Hall
-    city: Mountainside
+  - id: K000398-lebanon
+    address: 100 Corporate Drive
+    suite: Suite 106
+    city: Lebanon
     state: NJ
-    zip: '07092'
-    latitude: 40.6718005
-    longitude: -74.3559219
-    hours: First Friday of every month 9:00AM - 1:00PM
+    zip: '08833'
+    phone: 908-547-3307
+  - id: K000398-hopatcong
+    address: 111 River Styx Road
+    city: Hopatcong
+    state: NJ
+    zip: '07843'
+    hours: First Monday of every month 9:00AM - 1:00PM
+    latitude: 40.9337463
+    longitude: -74.6596083
   - id: K000398-budd_lake
     address: 204 Flanders-Drakestown Road
-    building: Mount Olive Township Municipal Building
     suite: Municipal Council Chambers
     city: Budd Lake
     state: NJ
     zip: '07828'
+    hours: First Tuesday of every month 9:00AM - 1:00PM
     latitude: 40.8466934
     longitude: -74.74492959999999
-    hours: First Tuesday of every month 9:00AM - 1:00PM
-  - id: K000398-hopatcong
-    address: 111 River Styx Road
-    building: Hopatcong Borough Municipal Building
-    city: Hopatcong
+  - id: K000398-bridgewater
+    address: 100 Commons Way
+    suite: Conference Room 102A-B
+    building: Bridgewater Township Municipal Building
+    city: Bridgewater
     state: NJ
-    zip: '07843'
-    latitude: 40.9337463
-    longitude: -74.6596083
-    hours: First Monday of every month 9:00AM - 1:00PM
-  - id: K000398-bernardsville
-    address: 75 Claremont Road
-    suite: Suite 206
-    city: Bernardsville
+    zip: '08807'
+  - id: K000398-clark
+    address: 430 Westfield Ave
+    suite: Room 30 (History Room)
+    building: Clark Township Municipal Building
+    city: Clark
     state: NJ
-    zip: '07924'
-    latitude: 40.7205486
-    longitude: -74.5711153
-    phone: 908-547-3307
-  - id: K000398-flemington
-    address: 71 Main St
-    suite: Building 1, Second Floor Executive Meeting
-    building: Hunterdon County Admin. Building
-    city: Flemington
-    state: NJ
-    zip: '08822'
-    latitude: 40.5104545
-    longitude: -74.8594372
-    hours: First Thursday of every month 9:00AM - 1:00PM
-  - id: K000398-washington
-    address: 100 Belvidere Avenue
-    suite: Second Floor Council Chambers
-    city: Washington
-    state: NJ
-    zip: '07882'
-    latitude: 40.7599447
-    longitude: -74.9827377
-    hours: First Wednesday of every month 9:00AM - 1:00PM
+    zip: '07066'
 - id:
     bioguide: K000399
     govtrack: 456947
