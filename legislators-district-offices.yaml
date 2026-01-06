@@ -3779,14 +3779,6 @@
     bioguide: F000446
     govtrack: 456818
   offices:
-  - id: F000446-fort_dodge
-    address: 723 Central Avenue
-    city: Fort Dodge
-    state: IA
-    zip: '50501'
-    latitude: 42.5048681
-    longitude: -94.187658
-    phone: 515-302-7060
   - id: F000446-sioux_city
     address: 320 6th Street
     suite: Room 112
@@ -3796,6 +3788,12 @@
     latitude: 42.4960349
     longitude: -96.40757239999999
     phone: 712-224-4692
+  - id: F000446-fort_dodge
+    address: 820 Central Avenue
+    city: Fort Dodge
+    state: IA
+    zip: '50501'
+    phone: 515-302-7060
   - id: F000446-council_bluffs
     address: 149 West Broadway
     city: Council Bluffs
