@@ -5898,33 +5898,30 @@
     govtrack: 400196
     thomas: '01640'
   offices:
+  - id: I000056-santee
+    address: 10601 Magnolia Ave
+    suite: Building 6
+    city: Santee
+    state: CA
+    zip: '92071'
+    phone: 760-304-7575
   - id: I000056-escondido
     address: 221 W. Crest St
-    suite: '#110'
+    suite: #110
     city: Escondido
     state: CA
     zip: '92025'
     latitude: 33.1304548
     longitude: -117.0882911
     phone: 760-304-7575
-  - id: I000056-santee
-    address: 10601 Magnolia Ave
-    building: Bldg 6
-    city: Santee
-    state: CA
-    zip: '92071'
-    latitude: 32.8705949
-    longitude: -116.9707658
-    hours: By appointment only
-    phone: 760-304-7575
   - id: I000056-temecula
     address: 41000 Main St.
     city: Temecula
     state: CA
     zip: '92590'
+    hours: By appointment only
     latitude: 33.4943342
     longitude: -117.1469259
-    hours: By appointment only
     phone: 760-304-7575
 - id:
     bioguide: I000058
