@@ -5615,29 +5615,17 @@
     bioguide: H001079
     govtrack: 412743
   offices:
-  - id: H001079-jackson
-    address: 190 East Capitol St.
-    suite: '#550'
-    city: Jackson
+  - id: H001079-ridgeland
+    address: 1020 Highland Colony Parkway
+    suite: Suite 203
+    city: Ridgeland
     state: MS
-    zip: '39201'
-    latitude: 32.3004269
-    longitude: -90.1867448
+    zip: '39157'
     fax: 202-228-6004
     phone: 601-965-4459
-  - id: H001079-oxford
-    address: 911 Jackson Ave.
-    suite: '#249'
-    city: Oxford
-    state: MS
-    zip: '38655'
-    latitude: 34.3672392
-    longitude: -89.5212463
-    fax: 662-236-7618
-    phone: 662-236-1018
   - id: H001079-gulfport
     address: 2012 15th Street
-    suite: '#451'
+    suite: #451
     city: Gulfport
     state: MS
     zip: '39501'
@@ -5645,17 +5633,16 @@
     longitude: -89.0870838
     fax: 228-867-9789
     phone: 228-867-9710
-  - id: H001079-brookhaven
-    address: 117 W. Cherokee St
-    suite: Suite C
-    city: Brookhaven
+  - id: H001079-oxford
+    address: 911 Jackson Ave.
+    suite: #249
+    city: Oxford
     state: MS
-    zip: '39601'
-    latitude: 31.5784172
-    longitude: -90.4467153
-    hours: Tuesday and Wednesday 8:00AM-5:00PM and by appointment
-    phone: 601-748-8024
-    fax: 202-224-7444
+    zip: '38655'
+    latitude: 34.3672392
+    longitude: -89.5212463
+    fax: 662-236-7618
+    phone: 662-236-1018
 - id:
     bioguide: H001081
     govtrack: 412763
