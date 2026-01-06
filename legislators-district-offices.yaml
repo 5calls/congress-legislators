@@ -13,6 +13,14 @@
     longitude: -86.840631
     fax: 202-225-5587
     phone: 256-734-6043
+  - id: A000055-albertville
+    address: 209 Sand Mountain Drive East
+    suite: STE 400
+    city: Albertville
+    state: AL
+    zip: '35950'
+    fax: 202-225-5587
+    phone: 256-546-0201
   - id: A000055-jasper
     address: 1710 Alabama Ave.
     suite: '247'
@@ -22,6 +30,7 @@
     zip: '35501'
     latitude: 33.83438
     longitude: -87.274935
+    fax: 202-225-5587
     phone: 205-221-2310
   - id: A000055-tuscumbia
     address: 1011 George Wallace Blvd.
