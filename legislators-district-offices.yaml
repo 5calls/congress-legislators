@@ -7454,14 +7454,12 @@
     bioguide: L000593
     govtrack: 412760
   offices:
-  - id: L000593-oceanside
-    address: 2204 El Camino Real
-    suite: Suite 314
-    city: Oceanside
+  - id: L000593-carlsbad
+    address: 2385 Camino Vida Roble
+    suite: Suite 211
+    city: Carlsbad
     state: CA
-    zip: '92054'
-    latitude: 33.1865277
-    longitude: -117.327922
+    zip: '92011'
     phone: 760-599-5000
   - id: L000593-dana_point
     address: 33282 Golden Lantern
