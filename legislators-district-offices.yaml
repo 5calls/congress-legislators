@@ -6609,9 +6609,16 @@
     longitude: -89.2688098
     fax: 662-258-7240
     phone: 662-687-1545
+  - id: K000388-iuka
+    address: 1008 Battleground Drive
+    suite: Room 105
+    city: Iuka
+    state: MS
+    zip: '38852'
+    phone: 662-687-1525
   - id: K000388-hernando
     address: 2565 Caffey St.
-    suite: '#200'
+    suite: #200
     city: Hernando
     state: MS
     zip: '38632'
@@ -6619,32 +6626,15 @@
     longitude: -89.9956387
     fax: 662-449-4836
     phone: 662-687-0576
-  - id: K000388-oxford
-    address: 107 Courthouse Square
-    city: Oxford
-    state: MS
-    zip: '38655'
-    latitude: 34.3664899
-    longitude: -89.5178694
-    fax: 662-328-5982
-    phone: 662-687-1540
   - id: K000388-tupelo
     address: 431 West Main Street
-    suite: 'Suite #450'
+    suite: Suite #450
     city: Tupelo
     state: MS
     zip: '38804'
     latitude: 34.2570023
     longitude: -88.70811259999999
     phone: 662-841-8808
-  - id: K000388-corinth
-    address: 4135 County Road 200
-    city: Corinth
-    state: MS
-    zip: '38844'
-    phone: 662-687-1525
-    latitude: 34.9311171
-    longitude: -88.4576292
 - id:
     bioguide: K000389
     govtrack: 412684
