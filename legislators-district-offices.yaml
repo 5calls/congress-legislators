@@ -7514,13 +7514,11 @@
     govtrack: 456892
   offices:
   - id: L000597-tampa
-    address: 17425 Bridge Hill Court
-    suite: Suite 203
+    address: 14025 Riveredge Dr
+    suite: Suite 105
     city: Tampa
     state: FL
-    zip: '33647'
-    latitude: 28.1288931
-    longitude: -82.3807414
+    zip: '33637'
     phone: 813-393-5077
 - id:
     bioguide: L000598
