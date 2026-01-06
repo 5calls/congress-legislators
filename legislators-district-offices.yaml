@@ -14301,13 +14301,10 @@
     longitude: -75.9155213
     phone: 607-242-0200
   - id: R000622-leeds
-    address: 49 Gilfeather Park Rd
-    suite: Unit 1
+    address: 49 Gilfeather Park Rd #1
     city: Leeds
     state: NY
     zip: '12451'
-    latitude: 42.2548652
-    longitude: -73.9051562
     phone: 518-625-2100
 - id:
     bioguide: M001231
