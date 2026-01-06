@@ -1433,6 +1433,13 @@
     govtrack: 400057
     thomas: '00165'
   offices:
+  - id: C000059-palm_desert
+    address: 73585 Fred Waring Drive
+    suite: Suite 108
+    city: Palm Desert
+    state: CA
+    zip: '92260'
+    phone: 760-620-0041
   - id: C000059-corona
     address: 400 S. Vicentia Ave.
     suite: Suite 125
@@ -1443,15 +1450,6 @@
     longitude: -117.5759232
     fax: 951-277-0420
     phone: 951-277-0042
-  - id: C000059-palm_desert
-    address: 73710 Fred Waring Drive
-    suite: Suite 129
-    city: Palm Desert
-    state: CA
-    zip: '92260'
-    latitude: 33.7302095
-    longitude: -116.3792623
-    phone: 760-620-0041
 - id:
     bioguide: C000127
     govtrack: 300018
