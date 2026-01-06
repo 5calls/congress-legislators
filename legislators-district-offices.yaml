@@ -14113,13 +14113,11 @@
     bioguide: M001240
     govtrack: 457001
   offices:
-  - id: M001240-lexington
-    address: 30 E. 1st Ave
-    city: Lexington
+  - id: M001240-high_point
+    address: 
+    city: High Point
     state: NC
-    zip: '27292'
-    latitude: 35.8230105
-    longitude: -80.25303939999999
+    zip: '27262'
     phone: 336-333-5005
 - id:
     bioguide: H001102
