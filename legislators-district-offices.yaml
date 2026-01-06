@@ -1756,15 +1756,22 @@
     govtrack: 400077
     thomas: '01742'
   offices:
+  - id: C001053-ada
+    address: 100 E. 13th St.
+    suite: Suite 213
+    city: Ada
+    state: OK
+    zip: '74820'
+    latitude: 34.7723614
+    longitude: -96.6790693
+    fax: 580-436-5451
+    phone: 580-436-5375
   - id: C001053-lawton
-    address: 711 SW. D Ave.
-    suite: Suite 201
+    address: 713 SW C Ave.
+    suite: Suite 101
     city: Lawton
     state: OK
     zip: '73501'
-    latitude: 34.6044481
-    longitude: -98.3995211
-    fax: 580-357-7477
     phone: 580-357-2131
   - id: C001053-norman
     address: 3219 Rock Creek Rd.
@@ -1776,16 +1783,6 @@
     longitude: -97.3950727
     fax: 405-321-7369
     phone: 405-329-6500
-  - id: C001053-ada
-    address: 100 E. 13th St.
-    suite: Suite 213
-    city: Ada
-    state: OK
-    zip: '74820'
-    latitude: 34.7723614
-    longitude: -96.6790693
-    fax: 580-436-5451
-    phone: 580-436-5375
 - id:
     bioguide: C001055
     govtrack: 400069
