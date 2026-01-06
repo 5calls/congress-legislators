@@ -11440,34 +11440,30 @@
     building: Brainerd City Hall
     city: Brainerd
     state: MN
-    zip: 56401-3595
+    zip: '56401'
     latitude: 46.35587
     longitude: -94.20074
-    phone: 218-355-0862
-  - id: S001212-cambridge
-    address: 300 3rd Ave NE
-    building: Cambridge City Hall
-    city: Cambridge
+  - id: S001212-forest_lake
+    address: 1408 Lake Street South
+    building: Forest Lake City Hall
+    city: Forest Lake
     state: MN
-    zip: 55008-1281
-    latitude: 45.57578
-    longitude: -93.22133
+    zip: '55025'
   - id: S001212-chisholm
     address: 316 W Lake St
     suite: Suite 7
     building: Chisholm City Hall
     city: Chisholm
     state: MN
-    zip: 55719-3708
+    zip: '55719'
     latitude: 47.48942
     longitude: -92.88417
-    phone: 218-355-0726
   - id: S001212-hermantown
     address: 5094 Miller Trunk Hwy
     suite: Suite 900
     city: Hermantown
     state: MN
-    zip: 55811-1626
+    zip: '55811'
     latitude: 46.83671
     longitude: -92.21649
     phone: 218-481-6396
