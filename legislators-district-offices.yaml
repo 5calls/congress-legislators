@@ -14382,12 +14382,10 @@
   offices:
   - id: M001230-allentown
     address: 1125 S Cedar Crest Blvd
-    suite: Suite 109 (Bottom Floor)
+    suite: Suite 109
     city: Allentown
     state: PA
     zip: '18103'
-    latitude: 40.5721453
-    longitude: -75.5190832
     phone: 484-781-6000
   - id: M001230-allentown-1
     address: 840 W Hamilton St.
@@ -14395,9 +14393,9 @@
     city: Allentown
     state: PA
     zip: '18101'
+    hours: By appointment only
     latitude: 40.6010829
     longitude: -75.4775753
-    hours: By appointment only
     phone: 484-781-6932
   - id: M001230-lehighton
     address: 1163 Interchange Rd
@@ -14416,6 +14414,7 @@
     zip: '18020'
     latitude: 40.6523751
     longitude: -75.2919521
+    phone: 610-333-1170
 - id:
     bioguide: B001327
     govtrack: 457018
