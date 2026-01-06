@@ -4649,13 +4649,11 @@
     thomas: '02276'
   offices:
   - id: G000576-fond_du_lac
-    address: 525 N Peters Ave
-    suite: Suite 700
+    address: 400 University Drive
+    suite: Suite D3
     city: Fond du Lac
     state: WI
-    zip: '54937'
-    latitude: 43.7930208
-    longitude: -88.4737813
+    zip: '54935'
     phone: 920-907-0624
 - id:
     bioguide: G000581
