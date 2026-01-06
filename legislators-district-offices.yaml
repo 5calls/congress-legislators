@@ -330,15 +330,6 @@
     govtrack: 400013
     thomas: '01558'
   offices:
-  - id: B001230-eau_claire
-    address: 500 South Barstow St.
-    suite: Suite LL2
-    city: Eau Claire
-    state: WI
-    zip: '54701'
-    latitude: 44.8088044
-    longitude: -91.5330934
-    phone: 715-832-8424
   - id: B001230-madison
     address: 30 W. Mifflin St.
     suite: Suite 700
@@ -348,6 +339,13 @@
     latitude: 43.07506559999999
     longitude: -89.38647139999999
     phone: 608-264-5338
+  - id: B001230-ladysmith
+    address: P.O. Box 401
+    city: Ladysmith
+    state: WI
+    zip: '54848'
+    latitude: 45.4630231
+    longitude: -91.10403579999999
   - id: B001230-milwaukee
     address: 633 West Wisconsin Ave
     suite: Suite 1300
@@ -357,15 +355,6 @@
     latitude: 43.0386745
     longitude: -87.91998439999999
     phone: 414-297-4451
-  - id: B001230-green_bay
-    address: 2325 Verlin Road
-    suite: Suite 201
-    city: Green Bay
-    state: WI
-    zip: '54311'
-    latitude: 44.4704255
-    longitude: -87.9670328
-    phone: 920-498-2668
   - id: B001230-la_crosse
     address: 210 7th Street South
     suite: Suite 203
@@ -375,14 +364,11 @@
     latitude: 43.8093946
     longitude: -91.2472178
     phone: 608-796-0045
-  - id: B001230-ladysmith
-    address: P.O. Box 401
-    city: Ladysmith
+  - id: B001230-green_bay
+    address: PO Box 10592
+    city: Green Bay
     state: WI
-    zip: '54848'
-    latitude: 45.4630231
-    longitude: -91.10403579999999
-    phone: 715-832-8424
+    zip: '54307'
 - id:
     bioguide: B001236
     govtrack: 400040
