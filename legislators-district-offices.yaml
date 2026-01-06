@@ -13864,6 +13864,13 @@
     bioguide: M001238
     govtrack: 456985
   offices:
+  - id: M001238-georgetown
+    address: 28 The Circle
+    suite: Suite 2
+    city: Georgetown
+    state: DE
+    zip: '19947'
+    phone: 302-752-9140
   - id: M001238-wilmington
     address: 1105 North Market St
     suite: Suite 400
