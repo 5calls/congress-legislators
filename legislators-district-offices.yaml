@@ -13065,19 +13065,11 @@
     city: Ballwin
     state: MO
     zip: '63011'
+    hours: Mon-Fri 9am-5pm
     latitude: 38.5980031
     longitude: -90.4902674
     fax: 636-779-5449
-    hours: Mon-Fri 9am-5pm
     phone: 636-779-5449
-  - id: W000812-washington
-    address: 516 Jefferson St.
-    city: Washington
-    state: MO
-    zip: '63090'
-    latitude: 38.5560408
-    longitude: -91.0132402
-    phone: 636-231-1001
 - id:
     bioguide: W000814
     govtrack: 412574
