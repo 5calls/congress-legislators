@@ -3609,26 +3609,34 @@
     city: Cedar Rapids
     state: IA
     zip: '52401'
+    hours: 8am-5pm CT
     latitude: 41.9731139
     longitude: -91.6645212
     fax: 319-365-4683
-    hours: 8am-5pm CT
     phone: 319-365-4504
+  - id: E000295-council_bluffs
+    address: 2146 27th Avenue
+    suite: Suite 500
+    city: Council Bluffs
+    state: IA
+    zip: '51501'
+    fax: 712-352-0087
+    phone: 712-352-1167
   - id: E000295-davenport
     address: 201 W. Second St.
     suite: Suite 806
     city: Davenport
     state: IA
     zip: '52801'
+    hours: 8am-5pm CT
     latitude: 41.5213296
     longitude: -90.5758645
     fax: 563-322-0854
-    hours: 8am-5pm CT
     phone: 563-322-0677
   - id: E000295-des_moines
     address: 210 Walnut Street
     suite: Suite 733
-    building: 733 Federal Building
+    building: Federal Building
     city: Des Moines
     state: IA
     zip: '50309'
@@ -3647,16 +3655,6 @@
     longitude: -96.40757239999999
     fax: 712-252-1638
     phone: 712-252-1550
-  - id: E000295-council_bluffs
-    address: 2146 27 th Avenue
-    suite: Suite 500
-    city: Council Bluffs
-    state: IA
-    zip: '51501'
-    latitude: 41.2357527
-    longitude: -95.8756275
-    fax: 712-352-0087
-    phone: 712-352-1167
 - id:
     bioguide: E000296
     govtrack: 412677
