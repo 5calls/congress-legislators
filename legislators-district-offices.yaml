@@ -6100,26 +6100,24 @@
     latitude: 32.5579513
     longitude: -93.7228425
     phone: 318-840-0309
+  - id: J000299-leesville
+    address: P.O. Box 779
+    city: Leesville
+    state: LA
+    zip: '71496'
+    phone: 337-423-4232
   - id: J000299-deridder
-    address: 401 W. First Street
-    suite: Room 33
+    address: P.O. Box 160
     city: DeRidder
     state: LA
     zip: '70634'
-    latitude: 30.8462282
-    longitude: -93.2897249
-    hours: By appointment
     phone: 337-226-6385
-  - id: J000299-leesville
-    address: 3329 University Parkway
-    suite: Room 24
-    building: Building 552
-    city: Leesville
+  - id: J000299-ruston
+    address: 401 N. Trenton St.
+    city: Ruston
     state: LA
-    zip: '71446'
-    latitude: 31.0884912
-    longitude: -93.2312895
-    phone: 337-423-4232
+    zip: '71270'
+    phone: 318-497-6610
 - id:
     bioguide: J000301
     govtrack: 412816
