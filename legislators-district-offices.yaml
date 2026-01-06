@@ -10081,6 +10081,13 @@
     govtrack: 412519
     thomas: '02109'
   offices:
+  - id: R000599-palm_desert
+    address: 77933 Las Montanas Rd
+    suite: Suite 100
+    city: Palm Desert
+    state: CA
+    zip: '92211'
+    phone: 760-424-8888
   - id: R000599-hemet
     address: 445 E. Florida Ave.
     suite: 2nd Floor
@@ -10099,15 +10106,6 @@
     latitude: 32.7900168
     longitude: -115.5611012
     phone: 760-592-2646
-  - id: R000599-palm_desert
-    address: 77933 Las Montanas R
-    suite: Suite 100
-    city: Palm Desert
-    state: CA
-    zip: '92211'
-    latitude: 33.7058871
-    longitude: -116.2386986
-    phone: 760-424-8888
 - id:
     bioguide: R000600
     govtrack: 412664
