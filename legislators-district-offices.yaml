@@ -80,12 +80,10 @@
     fax: 775-686-5711
     phone: 775-686-5760
   - id: A000369-elko
-    address: Elko, NV 89801
+    address: 
     city: Elko
     state: NV
     zip: '89801'
-    latitude: 40.8324211
-    longitude: -115.7631232
     phone: 775-777-7705
 - id:
     bioguide: A000370
