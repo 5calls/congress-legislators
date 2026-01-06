@@ -13472,14 +13472,11 @@
     govtrack: 456966
   offices:
   - id: S001232-billings
-    address: 2900 4th Ave N
-    building: William J. Jameson Federal Building
-    suite: Suite 201
+    address: 222 N 32nd Street
+    suite: Suite 102
     city: Billings
     state: MT
     zip: '59101'
-    latitude: 45.783661
-    longitude: -108.509643
     phone: 406-252-0559
   - id: S001232-bozeman
     address: 1 East Main Street
@@ -13487,9 +13484,9 @@
     city: Bozeman
     state: MT
     zip: '59715'
+    hours: By appointment only
     latitude: 45.679509
     longitude: -111.037033
-    hours: By appointment only
     phone: 406-872-6350
   - id: S001232-butte
     address: 125 West Granite St
@@ -13501,14 +13498,6 @@
     latitude: 46.014661
     longitude: -112.538169
     phone: 406-782-2048
-  - id: S001232-east_kalispell
-    address: 8-3rd Street
-    city: East Kalispell
-    state: MT
-    zip: '59901'
-    latitude: 48.195723
-    longitude: -114.312298
-    phone: 406-257-3398
   - id: S001232-great_falls
     address: 119 1st Ave North
     suite: Suite 102
@@ -13527,6 +13516,18 @@
     latitude: 46.586611
     longitude: -112.020866
     phone: 406-441-1069
+  - id: S001232-kalispell
+    address: 8-3rd Street, East
+    city: Kalispell
+    state: MT
+    zip: '59901'
+    phone: 406-257-3398
+  - id: S001232-missoula
+    address: 
+    city: Missoula
+    state: MT
+    zip: ''
+    phone: 406-218-2658
 - id:
     bioguide: M001242
     govtrack: 456967
