@@ -7975,9 +7975,27 @@
     longitude: -122.2076204
     fax: 425-259-7152
     phone: 425-259-6515
+  - id: M001111-richland
+    address: 825 Jadwin Avenue
+    suite: Suite 160K
+    city: Richland
+    state: WA
+    zip: '99352'
+    latitude: 46.2775135
+    longitude: -119.2760197
+    phone: 509-453-7462
+  - id: M001111-spokane
+    address: 920 West Riverside Avenue
+    suite: Ste 485
+    city: Spokane
+    state: WA
+    zip: '99201'
+    latitude: 47.65856309999999
+    longitude: -117.4260604
+    phone: 509-624-9515
   - id: M001111-seattle
     address: 915 2nd Ave.
-    suite: '#2988'
+    suite: #2988
     building: Jackson Federal Building
     city: Seattle
     state: WA
@@ -7986,6 +8004,15 @@
     longitude: -122.3354608
     fax: 206-553-0891
     phone: 206-553-5545
+  - id: M001111-tacoma
+    address: 1301 A Street
+    suite: Ste 213
+    city: Tacoma
+    state: WA
+    zip: '98402'
+    latitude: 47.251512
+    longitude: -122.4362776
+    phone: 253-572-3636
   - id: M001111-vancouver
     address: 1323 Officer's Row
     building: The Marshall House
@@ -7996,41 +8023,12 @@
     longitude: -122.657351
     fax: 360-696-7798
     phone: 360-696-7797
-  - id: M001111-tacoma
-    address: 1301 A Street
-    suite: Ste 213
-    city: Tacoma
-    state: WA
-    zip: '98402'
-    latitude: 47.251512
-    longitude: -122.4362776
-    phone: 253-572-3636
-  - id: M001111-spokane
-    address: 920 West Riverside Avenue
-    suite: Ste 485
-    city: Spokane
-    state: WA
-    zip: '99201'
-    latitude: 47.65856309999999
-    longitude: -117.4260604
-    phone: 509-624-9515
-  - id: M001111-richland
-    address: 825 Jadwin Avenue
-    suite: Suite 160K
-    city: Richland
-    state: WA
-    zip: '99352'
-    latitude: 46.2775135
-    longitude: -119.2760197
-    phone: 509-453-7462
   - id: M001111-olympia
-    address: 771 Capitol Way Sound
+    address: 711 Capitol Way Sound South
     suite: Suite 502
     city: Olympia
     state: WA
     zip: '98501'
-    latitude: 47.0415771
-    longitude: -122.9016531
     phone: 360-205-2878
 - id:
     bioguide: M001136
