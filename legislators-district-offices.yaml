@@ -1586,16 +1586,6 @@
     longitude: -112.0425928
     fax: 208-529-8367
     phone: 208-522-9779
-  - id: C000880-lewiston
-    address: 313 'D' St.
-    suite: Suite 105
-    city: Lewiston
-    state: ID
-    zip: '83501'
-    latitude: 46.422158
-    longitude: -117.028638
-    fax: 208-743-6484
-    phone: 208-743-1492
   - id: C000880-pocatello
     address: 275 S. 5th Ave.
     suite: Suite 138
@@ -1606,6 +1596,24 @@
     longitude: -112.4428822
     fax: 208-236-6935
     phone: 208-236-6775
+  - id: C000880-coeur_d'_alene
+    address: 610 Hubbard
+    suite: Suite 209
+    city: Coeur d' Alene
+    state: ID
+    zip: '83814'
+    fax: 208-664-0889
+    phone: 208-664-5490
+  - id: C000880-lewiston
+    address: 313 'D' St.
+    suite: Suite 105
+    city: Lewiston
+    state: ID
+    zip: '83501'
+    latitude: 46.422158
+    longitude: -117.028638
+    fax: 208-743-6484
+    phone: 208-743-1492
   - id: C000880-twin_falls
     address: 202 Falls Ave.
     suite: Suite 2
@@ -1616,14 +1624,6 @@
     longitude: -114.47751
     fax: 208-733-0414
     phone: 208-734-2515
-  - id: C000880-coeur_d__alene
-    address: 610 Hubbard Ave
-    suite: Suite 209
-    city: Coeur d' Alene
-    state: ID
-    zip: '83814'
-    fax: 208-664-0889
-    phone: 208-664-5490
 - id:
     bioguide: C001035
     govtrack: 300025
