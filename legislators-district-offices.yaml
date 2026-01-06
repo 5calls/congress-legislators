@@ -3093,76 +3093,6 @@
     bioguide: D000594
     govtrack: 456943
   offices:
-  - id: D000594-george_west
-    address: 402 Houston St
-    building: George West Library
-    city: George West
-    state: TX
-    zip: '78022'
-    latitude: 28.3378616
-    longitude: -98.1090711
-    hours: 3rd Wednesday of each month 11:30AM-2:30PM by appointment only
-    phone: 830-463-0800
-  - id: D000594-three_rivers
-    address: 102 Leroy St
-    building: Three Rivers Library
-    city: Three Rivers
-    state: TX
-    zip: '78071'
-    latitude: 28.4583002
-    longitude: -98.1826662
-    hours: 3rd Wednesday of each month 3PM-6PM by appointment only
-    phone: 830-463-0800
-  - id: D000594-floresville
-    address: 1103 4th St
-    building: Sam Fore, Jr. Wilson County Public Library
-    city: Floresville
-    state: TX
-    zip: '78114'
-    latitude: 29.13661279999999
-    longitude: -98.1596549
-    hours: 4th Monday of each month 1PM-4PM by appointment only
-    phone: 956-800-6069
-  - id: D000594-karnes_city
-    address: 210 W Calvert Ave
-    suite: '#120'
-    building: Karnes County Annex Building
-    city: Karnes City
-    state: TX
-    zip: '78118'
-    latitude: 28.885213
-    longitude: -97.902683
-    hours: 2nd Tuesday of each month 9AM-5PM by appointment only
-    phone: 830-463-0800
-  - id: D000594-seguin
-    address: 112 N Travis St
-    city: Seguin
-    state: TX
-    zip: '78155'
-    latitude: 29.5694229
-    longitude: -97.96660399999999
-    hours: Mon-Fri 9AM-5PM by appointment only
-    phone: 830-463-0800
-  - id: D000594-alice
-    address: 500 E Main St
-    building: Alice Public Works Department
-    city: Alice
-    state: TX
-    zip: '78332'
-    latitude: 27.7498855
-    longitude: -98.0719668
-    hours: 2nd Thursday of each month 1PM-4PM by appointment only
-    phone: 956-800-6069
-  - id: D000594-falfurrias
-    address: 203 S Calixto Mora Ave
-    building: Ed Rachal Public Library
-    city: Falfurrias
-    state: TX
-    zip: '78355'
-    latitude: 27.2255053
-    longitude: -98.1428968
-    hours: 3rd Tuesday of each month 1PM-4PM by appointment only
-    phone: 956-800-6069
   - id: D000594-mcallen
     address: 1400 N McColl Rd
     suite: Ste 103
@@ -3170,10 +3100,19 @@
     city: McAllen
     state: TX
     zip: '78504'
+    hours: Mon-Fri 9AM-5PM by appointment only
     latitude: 26.213686
     longitude: -98.210135
-    hours: Mon-Fri 9AM-5PM by appointment only
     phone: 956-800-6069
+  - id: D000594-seguin
+    address: 112 N Travis St
+    city: Seguin
+    state: TX
+    zip: '78155'
+    hours: Mon-Fri 9AM-5PM by appointment only
+    latitude: 29.5694229
+    longitude: -97.96660399999999
+    phone: 830-463-0800
 - id:
     bioguide: D000600
     govtrack: 400108
