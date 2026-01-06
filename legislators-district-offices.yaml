@@ -13376,14 +13376,11 @@
     govtrack: 456962
   offices:
   - id: M001229-newark
-    address: 60 Nelson Pl
-    suite: 14th Floor
-    building: LeRoy F. Smith, Jr. Public Safety Building
+    address: 60 Park Place
+    suite: Suite 302
     city: Newark
     state: NJ
     zip: '07102'
-    latitude: 40.7382546
-    longitude: -74.1848332
     phone: 973-645-3213
 - id:
     bioguide: W000829
