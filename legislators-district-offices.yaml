@@ -1685,6 +1685,14 @@
     bioguide: C001039
     govtrack: 456806
   offices:
+  - id: C001039-ocala
+    address: 2630 SE 3rd Street
+    building: Marion Co. Board of County Commissioners Complex
+    city: Ocala
+    state: FL
+    zip: '34471'
+    fax: 771-200-5542
+    phone: 352-421-9052
   - id: C001039-gainesville
     address: 5550 NW 111th Boulevard
     suite: Suite A
