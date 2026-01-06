@@ -307,14 +307,12 @@
     bioguide: B000825
     govtrack: 456805
   offices:
-  - id: B000825-castle_rock
-    address: 900 Castleton Rd.
-    suite: Suite 112
-    city: Castle Rock
+  - id: B000825-lone_tree
+    address: 9360 Station Street
+    suite: Suite 300
+    city: Lone Tree
     state: CO
-    zip: '80109'
-    latitude: 39.4092707
-    longitude: -104.8709821
+    zip: '80124'
     phone: 720-639-9165
   - id: B000825-eaton
     address: 271 South Elm Ave.
