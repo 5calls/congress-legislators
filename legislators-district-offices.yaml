@@ -14269,24 +14269,18 @@
     bioguide: L000606
     govtrack: 457011
   offices:
-  - id: L000606-white_plains
-    address: 222 Mamaroneck Ave
-    suite: Suite 312
-    city: White Plains
-    state: NY
-    zip: '10605'
-    latitude: 40.9501344
-    longitude: -73.7364686
-    phone: 914-323-5550
   - id: L000606-bronx
-    address: 177 Dreiser Loop
-    suite: Room 3
+    address: 
     city: Bronx
     state: NY
-    zip: '10475'
-    latitude: 40.876579
-    longitude: -73.8287211
+    zip: ''
     phone: 718-530-7888
+  - id: L000606-white_plains
+    address: 
+    city: White Plains
+    state: NY
+    zip: ''
+    phone: 914-323-5550
 - id:
     bioguide: R000622
     govtrack: 457012
