@@ -14546,7 +14546,15 @@
     zip: '22192'
     latitude: 38.6755144
     longitude: -77.2842945
+    fax: 771-200-5208
     phone: 703-987-2180
+  - id: V000138-fredericksburg
+    address: 1701 Fall Hill Ave
+    suite: Unit 104
+    city: Fredericksburg
+    state: VA
+    zip: '22401'
+    phone: 540-321-6130
 - id:
     bioguide: S001230
     govtrack: 457028
