@@ -6213,25 +6213,6 @@
     bioguide: J000304
     govtrack: 456847
   offices:
-  - id: J000304-denton
-    address: 110 W. Hickory Street
-    suite: Suite 303
-    city: Denton
-    state: TX
-    zip: '76201'
-    latitude: 33.2150321
-    longitude: -97.1330535
-    hours: By appointment only
-    phone: 940-334-2030
-  - id: J000304-wichita_falls
-    address: 2525 Kell Blvd.
-    suite: Suite 406
-    city: Wichita Falls
-    state: TX
-    zip: '76308'
-    latitude: 33.8845789
-    longitude: -98.5276894
-    phone: 940-285-8000
   - id: J000304-amarillo
     address: 620 South Taylor St.
     suite: Suite 200
@@ -6241,6 +6222,23 @@
     latitude: 35.2067757
     longitude: -101.836218
     phone: 806-641-5600
+  - id: J000304-wichita_falls
+    address: 2525 Kell E Blvd.
+    suite: Suite 406
+    city: Wichita Falls
+    state: TX
+    zip: '76308'
+    phone: 940-285-8000
+  - id: J000304-denton
+    address: 110 W. Hickory Street
+    suite: Suite 303
+    city: Denton
+    state: TX
+    zip: '76201'
+    hours: By appointment only
+    latitude: 33.2150321
+    longitude: -97.1330535
+    phone: 940-334-2030
 - id:
     bioguide: J000305
     govtrack: 456804
