@@ -5473,35 +5473,6 @@
     govtrack: 412511
     thomas: '02101'
   offices:
-  - id: H001068-eureka
-    address: 317 Third St.
-    suite: Suite 1
-    city: Eureka
-    state: CA
-    zip: '95501'
-    latitude: 40.8035929
-    longitude: -124.1682054
-    fax: 707-407-3559
-    phone: 707-407-3585
-  - id: H001068-fort_bragg
-    address: 430 N. Franklin St.
-    suite: P.O. Box 2208
-    city: Fort Bragg
-    state: CA
-    zip: '95437'
-    latitude: 39.44613289999999
-    longitude: -123.8042883
-    fax: 707-962-0905
-    phone: 707-962-0933
-  - id: H001068-petaluma
-    address: 206 G St.
-    suite: 'Unit #3'
-    city: Petaluma
-    state: CA
-    zip: '94952'
-    latitude: 38.2315024
-    longitude: -122.6330448
-    phone: 707-981-8967
   - id: H001068-san_rafael
     address: 999 Fifth Ave.
     suite: Suite 290
@@ -5512,6 +5483,13 @@
     longitude: -122.5267
     fax: 415-258-9913
     phone: 415-258-9657
+  - id: H001068-fort_bragg
+    address: 430 North Franklin St.
+    city: Fort Bragg
+    state: CA
+    zip: '95437'
+    fax: 707-962-0905
+    phone: 707-962-0933
   - id: H001068-ukiah
     address: 200 South School Street
     city: Ukiah
@@ -5521,6 +5499,25 @@
     longitude: -123.2085168
     fax: 707-962-0905
     phone: 707-671-7449
+  - id: H001068-eureka
+    address: 317 Third St.
+    suite: Suite 1
+    city: Eureka
+    state: CA
+    zip: '95501'
+    latitude: 40.8035929
+    longitude: -124.1682054
+    fax: 707-407-3559
+    phone: 707-407-3585
+  - id: H001068-petaluma
+    address: 206 G St.
+    suite: Unit #3
+    city: Petaluma
+    state: CA
+    zip: '94952'
+    latitude: 38.2315024
+    longitude: -122.6330448
+    phone: 707-981-8967
 - id:
     bioguide: H001072
     govtrack: 412609
