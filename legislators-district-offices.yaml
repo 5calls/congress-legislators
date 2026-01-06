@@ -12697,45 +12697,6 @@
     govtrack: 300100
     thomas: '01247'
   offices:
-  - id: W000779-bend
-    address: 131 NW. Hawthorne Ave.
-    suite: Suite 107
-    building: The Jamison Building
-    city: Bend
-    state: OR
-    zip: '97701'
-    latitude: 44.0577537
-    longitude: -121.3095974
-    phone: 541-330-9142
-  - id: W000779-eugene
-    address: 405 E. 8th Ave.
-    suite: Suite 2020
-    city: Eugene
-    state: OR
-    zip: '97401'
-    latitude: 44.0516985
-    longitude: -123.0857882
-    phone: 541-431-0229
-  - id: W000779-la_grande
-    address: 105 Fir St.
-    suite: Suite 201
-    building: SAC Annex Building
-    city: La Grande
-    state: OR
-    zip: '97850'
-    latitude: 45.326715
-    longitude: -118.0926554
-    phone: 541-962-7691
-  - id: W000779-medford
-    address: 310 W. 6th St.
-    suite: Room 118
-    building: Federal Courthouse
-    city: Medford
-    state: OR
-    zip: '97501'
-    latitude: 42.3253466
-    longitude: -122.8769125
-    phone: 541-858-5122
   - id: W000779-portland
     address: 911 NE 11th Ave.
     suite: Suite 630
@@ -12746,14 +12707,48 @@
     longitude: -122.6555902
     phone: 503-326-7525
   - id: W000779-salem
-    address: 707 13th St.
+    address: 707 13th St., SE
     suite: Suite 285
     city: Salem
     state: OR
     zip: '97301'
-    latitude: 44.9304332
-    longitude: -123.0290951
     phone: 503-589-4555
+  - id: W000779-eugene
+    address: 405 E. 8th Ave.
+    suite: Suite 2020
+    city: Eugene
+    state: OR
+    zip: '97401'
+    latitude: 44.0516985
+    longitude: -123.0857882
+    phone: 541-431-0229
+  - id: W000779-bend
+    address: 131 NW. Hawthorne Ave.
+    suite: Suite 107
+    building: The Jamison Building
+    city: Bend
+    state: OR
+    zip: '97701'
+    latitude: 44.0577537
+    longitude: -121.3095974
+    phone: 541-330-9142
+  - id: W000779-pendleton
+    address: 2411 NW Carden Ave.
+    suite: Suite 207
+    city: Pendleton
+    state: OR
+    zip: '97801'
+    phone: 541-612-3466
+  - id: W000779-medford
+    address: 310 W. 6th St.
+    suite: Room 118
+    building: Federal Courthouse
+    city: Medford
+    state: OR
+    zip: ''
+    latitude: 42.3253466
+    longitude: -122.8769125
+    phone: 541-858-5122
 - id:
     bioguide: W000788
     govtrack: 456811
