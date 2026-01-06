@@ -7476,25 +7476,30 @@
     bioguide: L000595
     govtrack: 456859
   offices:
-  - id: L000595-amite
-    address: 109 E. Oak Street
-    city: Amite
+  - id: L000595-baton_rouge
+    address: 7932 Wrenwood Blvd
+    suite: Suite C
+    city: Baton Rouge
     state: LA
-    zip: '70422'
-    latitude: 30.7268804
-    longitude: -90.5103716
-    hours: By appointment only
-    phone: 985-284-5200
+    zip: '70809'
+    phone: 225-952-1390
   - id: L000595-monroe
     address: 1900 North 18th Street
     suite: Suite 501
     city: Monroe
     state: LA
     zip: '71201'
+    hours: By appointment only
     latitude: 32.5282417
     longitude: -92.1144624
-    hours: By appointment only
     phone: 318-570-6440
+  - id: L000595-hammond
+    address: 1514 Martens Drive
+    suite: Suite 3
+    city: Hammond
+    state: LA
+    zip: '70401'
+    phone: 985-284-5200
 - id:
     bioguide: L000596
     govtrack: 456891
