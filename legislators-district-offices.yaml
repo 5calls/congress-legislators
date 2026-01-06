@@ -217,14 +217,12 @@
     bioguide: A000380
     govtrack: 456955
   offices:
-  - id: A000380-pawtucket
-    address: 1070 Main Street
-    suite: Suite 300
-    city: Pawtucket
+  - id: A000380-providence
+    address: 10 Charles Street
+    suite: Suite 200
+    city: Providence
     state: RI
-    zip: '02860'
-    latitude: 41.8612017
-    longitude: -71.3988584
+    zip: '02904'
     fax: 401-729-5608
     phone: 401-729-5600
 - id:
