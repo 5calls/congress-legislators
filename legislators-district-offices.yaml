@@ -14239,6 +14239,19 @@
     latitude: 40.17897719245051
     longitude: -74.67150589475895
     phone: 609-438-6290
+  - id: C001136-freehold
+    address: 30 Mechanic Street
+    city: Freehold
+    state: NJ
+    zip: '07728'
+    phone: 609-438-6290
+  - id: C001136-marlton
+    address: 5 Greentree Centre
+    suite: Suite 307
+    city: Marlton
+    state: NJ
+    zip: '08053'
+    phone: 609-438-6290
 - id:
     bioguide: P000621
     govtrack: 457009
