@@ -10432,16 +10432,15 @@
     govtrack: 300087
     thomas: '01036'
   offices:
-  - id: S000148-rochester
-    address: 100 State St.
-    suite: Room 3040
-    city: Rochester
+  - id: S000148-albany
+    address: Leo O'Brien Building
+    suite: Room 827
+    building: Leo O'Brien Building
+    city: Albany
     state: NY
-    zip: '14614'
-    latitude: 43.1576631
-    longitude: -77.613515
-    fax: 585-263-3173
-    phone: 585-263-5866
+    zip: '12207'
+    fax: 518-431-4076
+    phone: 518-431-4070
   - id: S000148-binghamton
     address: 15 Henry St.
     suite: Room. 100 A-F
@@ -10454,7 +10453,7 @@
     phone: 607-772-6792
   - id: S000148-buffalo
     address: 130 S. Elmwood Ave.
-    suite: '#660'
+    suite: #660
     city: Buffalo
     state: NY
     zip: '14202'
@@ -10462,6 +10461,16 @@
     longitude: -78.87954189999999
     fax: 716-846-4113
     phone: 716-846-4111
+  - id: S000148-melville
+    address: 145 Pinelawn Road
+    suite: #300N
+    city: Melville
+    state: NY
+    zip: '11747'
+    latitude: 40.7707082
+    longitude: -73.4086234
+    fax: 631-391-9068
+    phone: 631-753-0978
   - id: S000148-new_york
     address: 780 Third Ave.
     suite: Suite 2301
@@ -10482,6 +10491,16 @@
     longitude: -73.91672969999999
     fax: 914-734-1673
     phone: 914-734-1532
+  - id: S000148-rochester
+    address: 100 State St.
+    suite: Room 3040
+    city: Rochester
+    state: NY
+    zip: '14614'
+    latitude: 43.1576631
+    longitude: -77.613515
+    fax: 585-263-3173
+    phone: 585-263-5866
   - id: S000148-syracuse
     address: 100 S. Clinton St.
     suite: Room 841
@@ -10492,27 +10511,6 @@
     longitude: -76.1543204
     fax: 315-423-5185
     phone: 315-423-5471
-  - id: S000148-albany
-    address: 1 Clinton Ave.
-    suite: Room 827
-    building: Leo O'Brien Building
-    city: Albany
-    state: NY
-    zip: '12207'
-    latitude: 42.6551412
-    longitude: -73.7491677
-    fax: 518-431-4076
-    phone: 518-431-4070
-  - id: S000148-melville
-    address: 145 Pinelawn Road
-    suite: '#300N'
-    city: Melville
-    state: NY
-    zip: '11747'
-    latitude: 40.7707082
-    longitude: -73.4086234
-    fax: 631-391-9068
-    phone: 631-753-0978
 - id:
     bioguide: S000168
     govtrack: 456810
