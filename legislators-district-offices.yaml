@@ -12684,14 +12684,6 @@
     longitude: -88.70673479999999
     fax: 662-844-5030
     phone: 662-844-5010
-  - id: W000437-tupelo-1
-    address: P.O. Box 3777
-    city: Tupelo
-    state: MS
-    zip: '38803'
-    latitude: 34.2576066
-    longitude: -88.7033859
-    phone: 662-844-5010
 - id:
     bioguide: W000779
     govtrack: 300100
