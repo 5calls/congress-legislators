@@ -14072,20 +14072,16 @@
     govtrack: 456998
   offices:
   - id: O000177-cottleville
-    address: 5330 Highway N
+    address: 
     city: Cottleville
     state: MO
     zip: '63304'
-    latitude: 38.7460249
-    longitude: -90.6559638
     phone: 636-327-7055
   - id: O000177-jefferson_city
-    address: 235 East High St
+    address: 
     city: Jefferson City
     state: MO
     zip: '65101'
-    latitude: 38.5753765
-    longitude: -92.1725243
     phone: 573-635-7232
 - id:
     bioguide: D000634
