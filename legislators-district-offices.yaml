@@ -10262,14 +10262,6 @@
     latitude: 40.291332
     longitude: -79.39361
     phone: 724-219-4200
-  - id: R000610-washington
-    address: 14 South Main St.
-    city: Washington
-    state: PA
-    zip: '15301'
-    latitude: 40.1706717
-    longitude: -80.2478684
-    phone: 724-206-4800
 - id:
     bioguide: R000612
     govtrack: 412818
