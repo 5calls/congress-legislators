@@ -14633,13 +14633,12 @@
     longitude: -83.5353165
     phone: 567-304-3777
   - id: H001104-columbus
-    address: John W. Bricker Federal Building, 200 North High Street
+    address: 200 North High Street
     suite: Suite 600
+    building: John W. Bricker Federal Building
     city: Columbus
     state: OH
     zip: '43215'
-    latitude: 39.9666883
-    longitude: -83.000974
     phone: 614-369-4925
   - id: H001104-middletown
     address: 300 North Main Street
@@ -14652,7 +14651,7 @@
     phone: 513-318-1100
   - id: H001104-cleveland
     address: 1240 East 9th Street
-    suite: 3061
+    suite: '3061'
     city: Cleveland
     state: OH
     zip: '44199'
