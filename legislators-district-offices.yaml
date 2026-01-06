@@ -2372,7 +2372,7 @@
   - id: C001098-houston
     address: 1919 Smith St.
     suite: Suite 9047
-    building: The Mickey Leland Federal Building
+    building: Mickey Leland Federal Bldg.
     city: Houston
     state: TX
     zip: '77002'
@@ -2380,15 +2380,6 @@
     longitude: -95.3650242
     fax: 713-209-3459
     phone: 713-718-3057
-  - id: C001098-mcallen
-    address: 200 S. 10th St.
-    suite: Suite 1603
-    city: McAllen
-    state: TX
-    zip: '78501'
-    latitude: 26.2019273
-    longitude: -98.2313667
-    phone: 956-686-7339
   - id: C001098-san_antonio
     address: 9901 Ih-10w
     suite: Suite 950
@@ -2408,6 +2399,13 @@
     latitude: 32.3480097
     longitude: -95.3009807
     phone: 903-593-5130
+  - id: C001098-mcallen
+    address: 200 S. 10th St.
+    suite: Suite 1107
+    city: McAllen
+    state: TX
+    zip: '78501'
+    phone: 956-686-7339
 - id:
     bioguide: C001101
     govtrack: 412600
