@@ -1212,14 +1212,6 @@
     bioguide: B001313
     govtrack: 456863
   offices:
-  - id: B001313-cleveland
-    address: 17021 Lorain Avenue
-    city: Cleveland
-    state: OH
-    zip: '44111'
-    latitude: 41.4499891
-    longitude: -81.81605379999999
-    phone: 216-535-1100
   - id: B001313-beachwood
     address: 25200 Chagrin Blvd
     suite: Suite 200
