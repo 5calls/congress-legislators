@@ -12990,42 +12990,38 @@
     govtrack: 412412
     thomas: '02004'
   offices:
-  - id: W000808-west_park
-    address: 1965 South State Road 7
-    building: West Park City Hall
-    city: West Park
-    state: FL
-    zip: '33023'
-    latitude: 25.993095
-    longitude: -80.2038997
-    phone: 954-989-2688
   - id: W000808-miami_beach
     address: 1700 Convention Center Drive
     suite: First Floor Suite
     city: Miami Beach
     state: FL
     zip: '33139'
+    hours: Tuesday 10 AM to 4 PM or by appointment
     latitude: 25.7928055
     longitude: -80.13535759999999
-    hours: Tuesday 10 AM to 4 PM or by appointment
-    phone: 305-673-7000
-  - id: W000808-miami_gardens
-    address: 18425 NW 2nd Avenue
-    city: Miami Gardens
-    state: FL
-    zip: '33169'
-    latitude: 25.943743
-    longitude: -80.2049139
     phone: 305-690-5905
+  - id: W000808-west_park
+    address: West Park City Hall
+    city: West Park
+    state: FL
+    zip: '33023'
+    phone: 954-989-2688
   - id: W000808-north_miami
     address: 1600 NE 126th Street
     building: Scott Galvin Community Center
     city: North Miami
     state: FL
     zip: '33181'
+    hours: By appointment
     latitude: 25.8921724
     longitude: -80.1654456
-    hours: By appointment
+    phone: 305-690-5905
+  - id: W000808-miami_gardens
+    address: 18425 NW 2nd Ave
+    suite: Suite 355
+    city: Miami Gardens
+    state: FL
+    zip: '33169'
     phone: 305-690-5905
 - id:
     bioguide: W000809
