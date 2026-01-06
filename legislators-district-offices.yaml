@@ -14060,6 +14060,12 @@
     govtrack: 456997
   offices:
   - id: B001324-st__louis
+    address: 1190 Cole St.
+    city: St. Louis
+    state: MO
+    zip: '63101'
+    phone: 314-955-9980
+  - id: B001324-st__louis
     address: 1191 Dr. M.L. King Dr.
     city: St. Louis
     state: MO
