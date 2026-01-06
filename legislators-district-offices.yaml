@@ -4140,26 +4140,23 @@
     bioguide: F000478
     govtrack: 456938
   offices:
-  - id: F000478-florence
-    address: 1831 West Evans Street
-    suite: Suite 300
-    city: Florence
-    state: SC
-    zip: '29501'
-    latitude: 34.1959091
-    longitude: -79.8018073
-    hours: 9AM-1PM and 2:30PM-5PM
-    phone: 843-799-6880
   - id: F000478-surfside_beach
     address: 1500 Hwy 17 N
     suite: Suite 304
     city: Surfside Beach
     state: SC
     zip: '29575'
+    hours: 9AM-5PM
     latitude: 33.62340330000001
     longitude: -78.9705162
-    hours: 9AM-5PM
     phone: 843-353-5377
+  - id: F000478-florence
+    address: 401 West Evans Street
+    suite: Suite 205
+    city: Florence
+    state: SC
+    zip: '29501'
+    phone: 843-799-6880
 - id:
     bioguide: F000479
     govtrack: 456877
