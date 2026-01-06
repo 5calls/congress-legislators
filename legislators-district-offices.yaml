@@ -14577,6 +14577,13 @@
     bioguide: R000621
     govtrack: 457030
   offices:
+  - id: R000621-tacoma
+    address: 1102 A Street
+    suite: Suite 326
+    city: Tacoma
+    state: WA
+    zip: '98402'
+    phone: 253-272-3515
   - id: R000621-bremerton
     address: 345 6th St.
     suite: Suite 500
