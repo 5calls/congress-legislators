@@ -8368,17 +8368,15 @@
     thomas: '02156'
   offices:
   - id: M001190-oklahoma_city
-    address: 3817 NW Expressway
-    suite: '#780'
+    address: 621 N Robinson Ave
+    suite: Suite 401
     city: Oklahoma City
     state: OK
-    zip: '73112'
-    latitude: 35.5361791
-    longitude: -97.58577269999999
+    zip: '73102'
     phone: 405-246-0025
   - id: M001190-tulsa
     address: 15 W 6th St.
-    suite: 'Suite #2100'
+    suite: Suite #2100
     city: Tulsa
     state: OK
     zip: '74119'
