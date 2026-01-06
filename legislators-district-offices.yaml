@@ -6302,15 +6302,23 @@
     thomas: '01826'
   offices:
   - id: K000367-minneapolis
-    address: 1200 Washington Avenue South
-    suite: Room 250
+    address: P.O. Box Number 15024
     city: Minneapolis
     state: MN
     zip: '55415'
-    latitude: 44.9751443
-    longitude: -93.2505863
     fax: 202-224-1792
     phone: 612-727-5220
+  - id: K000367-virginia
+    address: 820 9th Street North
+    suite: Room 105
+    building: Olcott Plaza
+    city: Virginia
+    state: MN
+    zip: '55792'
+    latitude: 47.5302888
+    longitude: -92.5465059
+    fax: 202-224-1792
+    phone: 218-741-9690
   - id: K000367-moorhead
     address: 121 4th Street South
     city: Moorhead
@@ -6330,17 +6338,6 @@
     longitude: -92.479679
     fax: 202-224-1792
     phone: 507-288-5321
-  - id: K000367-virginia
-    address: 820 9th Street North
-    suite: Room 105
-    building: Olcott Plaza
-    city: Virginia
-    state: MN
-    zip: '55792'
-    latitude: 47.5302888
-    longitude: -92.5465059
-    fax: 202-224-1792
-    phone: 218-741-9690
 - id:
     bioguide: K000375
     govtrack: 412435
