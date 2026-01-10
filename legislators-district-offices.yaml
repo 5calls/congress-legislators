@@ -9858,12 +9858,9 @@
   offices:
   - id: R000305-raleigh
     address: 300 Fayetteville Street
-    suite: P.O. Box 1548
     city: Raleigh
     state: NC
     zip: '27602'
-    latitude: 35.7766609
-    longitude: -78.6397867
     fax: 919-828-1179
     phone: 919-334-0840
 - id:
