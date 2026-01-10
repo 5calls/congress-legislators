@@ -5662,13 +5662,12 @@
     govtrack: 412748
   offices:
   - id: H001082-tulsa
-    address: 2448 E. 81st St.
-    suite: Suite 5150
+    address: 2448 East 81st Street
+    suite: Suite 700
     city: Tulsa
     state: OK
     zip: '74137'
-    latitude: 36.0445807
-    longitude: -95.95355529999999
+    fax: 202-225-9187
     phone: 918-935-3222
 - id:
     bioguide: H001085
