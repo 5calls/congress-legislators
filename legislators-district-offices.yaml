@@ -1665,21 +1665,18 @@
     longitude: -68.013198
     phone: 207-493-7873
   - id: C001035-lewiston
-    address: 55 Lisbon St.
+    address: 184 Main Street
+    suite: Suite 401
     city: Lewiston
     state: ME
     zip: '04240'
-    latitude: 44.097439
-    longitude: -70.217972
     phone: 207-784-6969
   - id: C001035-portland
-    address: One Canal Plaza
-    suite: Suite 802
+    address: 200 Middle Street
+    suite: Suite 801
     city: Portland
     state: ME
     zip: '04101'
-    latitude: 43.6566885
-    longitude: -70.2551294
     phone: 207-618-5560
 - id:
     bioguide: C001039
