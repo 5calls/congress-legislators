@@ -14068,6 +14068,12 @@
     bioguide: H001102
     govtrack: 457002
   offices:
+  - id: H001102-laurinburg
+    address: 303 West Church Street
+    city: Laurinburg
+    state: NC
+    zip: '28352'
+    phone: 910-887-6424
   - id: H001102-monroe
     address: 300 North Main St
     city: Monroe
