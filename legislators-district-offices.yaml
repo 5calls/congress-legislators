@@ -5244,6 +5244,24 @@
     longitude: -106.6521937
     fax: 505-346-6780
     phone: 505-346-6601
+  - id: H001046-las_cruces
+    address: 201 North Church St.
+    suite: Ste. 305
+    city: Las Cruces
+    state: NM
+    zip: '88001'
+    latitude: 32.311032
+    longitude: -106.778664
+    fax: 575-523-6584
+    phone: 575-523-6561
+  - id: H001046-santa_fe
+    address: 123 E Marcy St
+    suite: Suite 103
+    city: Santa Fe
+    state: NM
+    zip: '87501'
+    fax: 505-992-8435
+    phone: 505-988-6647
   - id: H001046-farmington
     address: 7450 E. Main St.
     suite: Suite A
@@ -5264,16 +5282,6 @@
     longitude: -104.521106
     fax: 575-622-3538
     phone: 575-622-7113
-  - id: H001046-las_cruces
-    address: 201 North Church St.
-    suite: Ste. 305
-    city: Las Cruces
-    state: NM
-    zip: '88001'
-    latitude: 32.311032
-    longitude: -106.778664
-    fax: 575-523-6584
-    phone: 575-523-6561
 - id:
     bioguide: H001047
     govtrack: 412282
