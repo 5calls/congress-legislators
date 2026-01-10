@@ -10290,6 +10290,19 @@
     bioguide: R000617
     govtrack: 456900
   offices:
+  - id: R000617-chicago
+    address: 3140 W Montrose Ave
+    city: Chicago
+    state: IL
+    zip: '60618'
+  - id: R000617-chicago
+    address: 5624 W. Diversey Ave
+    city: Chicago
+    state: IL
+    zip: '60639'
+    latitude: 41.9314695
+    longitude: -87.7672956
+    phone: 773-799-8219
   - id: R000617-west_chicago
     address: 946 N Neltnor Blvd
     suite: Suite 104
@@ -10299,14 +10312,11 @@
     latitude: 41.9010099
     longitude: -88.1996228
     phone: 630-520-9494
-  - id: R000617-chicago
-    address: 5624 W. Diversey Ave
+  - id: R000617-chicago-2
+    address: 2511 W Division Street
     city: Chicago
     state: IL
-    zip: '60639'
-    latitude: 41.9314695
-    longitude: -87.7672956
-    phone: 773-799-8219
+    zip: '60622'
 - id:
     bioguide: R000618
     govtrack: 456952
