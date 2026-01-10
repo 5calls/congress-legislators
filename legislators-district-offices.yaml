@@ -13785,14 +13785,12 @@
     govtrack: 456984
   offices:
   - id: E000300-greeley
-    address: 3400 West 16th St
+    address: 3400 West 16th St, Building 1S
     suite: Suite C
     building: Building 1S
     city: Greeley
     state: CO
     zip: '80634'
-    latitude: 40.4140011
-    longitude: -104.7370945
     phone: 970-324-2567
   - id: E000300-northglenn
     address: 10701 Melody Dr
