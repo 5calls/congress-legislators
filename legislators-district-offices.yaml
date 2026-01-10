@@ -13642,13 +13642,12 @@
     bioguide: G000605
     govtrack: 456975
   offices:
-  - id: G000605-turlock
-    address: 90 S. First St.
-    city: Turlock
+  - id: G000605-merced
+    address: 602 W 20th Street
+    suite: Suite B
+    city: Merced
     state: CA
-    zip: '95380'
-    latitude: 37.4935774
-    longitude: -120.8491655
+    zip: '95340'
     phone: 209-226-6880
 - id:
     bioguide: L000607
