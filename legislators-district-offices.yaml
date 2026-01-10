@@ -10523,29 +10523,12 @@
     govtrack: 400367
     thomas: '01525'
   offices:
-  - id: S000250-lufkin
-    address: 300 E Shepherd Ave
-    suite: Suite 210
-    city: Lufkin
-    state: TX
-    zip: 75902-3252
-    latitude: 31.3369511
-    longitude: -94.7268828
-    phone: 936-219-6450
-  - id: S000250-nacogdoches
-    address: 3034 Raguet St
-    city: Nacogdoches
-    state: TX
-    zip: 75965-2852
-    latitude: 31.6316015
-    longitude: -94.64751059999999
-    phone: 936-585-7959
   - id: S000250-waco
     address: 400 Austin Avenue
     suite: Suite 302
     city: Waco
     state: TX
-    zip: 76701-2139
+    zip: '76701'
     latitude: 31.5572723
     longitude: -97.13091949999999
     phone: 254-633-4500
@@ -10554,18 +10537,33 @@
     suite: Suite 208
     city: Huntsville
     state: TX
-    zip: 77320-3770
+    zip: '77320'
     latitude: 30.7211249
     longitude: -95.56447209999999
     phone: 936-755-7770
+  - id: S000250-nacogdoches
+    address: 3034 Raguet St
+    city: Nacogdoches
+    state: TX
+    zip: '75965'
+    latitude: 31.6316015
+    longitude: -94.64751059999999
+    phone: 936-585-7959
+  - id: S000250-lufkin
+    address: 300 E Shepherd Ave
+    suite: Suite 210
+    city: Lufkin
+    state: TX
+    zip: '75902'
+    latitude: 31.3369511
+    longitude: -94.7268828
+    phone: 936-219-6450
   - id: S000250-round_rock
-    address: 310 W Main Street
-    suite: Suite 106
+    address: 409 W Main St.
+    suite: Apt. 203
     city: Round Rock
     state: TX
     zip: '78664'
-    latitude: 30.5079549
-    longitude: -97.6843175
     phone: 202-340-9033
 - id:
     bioguide: S000344
