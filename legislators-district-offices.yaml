@@ -7272,17 +7272,6 @@
     govtrack: 412495
     thomas: '02080'
   offices:
-  - id: L000577-ogden
-    address: 324 25th St.
-    suite: Suite 1410
-    building: James V. Hansen Federal Building
-    city: Ogden
-    state: UT
-    zip: '84401'
-    latitude: 41.2206774
-    longitude: -111.9726125
-    fax: 801-392-9630
-    phone: 801-392-9633
   - id: L000577-salt_lake_city
     address: 125 S. State
     suite: Suite 4225
@@ -7306,7 +7295,7 @@
     phone: 435-503-9335
   - id: L000577-st__george
     address: 111 East Tabernacle Street
-    suite: 'Suite #324'
+    suite: Suite #324
     city: St. George
     state: UT
     zip: '84770'
