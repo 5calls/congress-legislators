@@ -4302,6 +4302,24 @@
     govtrack: 300048
     thomas: '00457'
   offices:
+  - id: G000386-cedar_rapids
+    address: 111 7th Avenue SE
+    suite: Suite 6800
+    city: Cedar Rapids
+    state: IA
+    zip: '52401'
+    fax: 319-363-7179
+    phone: 319-363-6832
+  - id: G000386-council_bluffs
+    address: 2146 27th Avenue
+    suite: Suite 550
+    city: Council Bluffs
+    state: IA
+    zip: '51501'
+    latitude: 41.2357527
+    longitude: -95.8756275
+    fax: 712-322-7196
+    phone: 712-322-7103
   - id: G000386-davenport
     address: 201 W. 2nd St.
     suite: Suite 720
@@ -4345,26 +4363,6 @@
     longitude: -92.339384
     fax: 319-232-9965
     phone: 319-232-6657
-  - id: G000386-council_bluffs
-    address: 2146 27th Avenue
-    suite: Suite 550
-    city: Council Bluffs
-    state: IA
-    zip: '51501'
-    latitude: 41.2357527
-    longitude: -95.8756275
-    fax: 712-322-7196
-    phone: 712-322-7103
-  - id: G000386-cedar_rapids
-    address: 111 7th Avenue SE, Box 13
-    suite: Suite 6800
-    city: Cedar Rapids
-    state: IA
-    zip: '52401'
-    latitude: 41.9726414
-    longitude: -91.66403749999999
-    fax: 319-363-7179
-    phone: 319-363-6832
 - id:
     bioguide: G000546
     govtrack: 400158
