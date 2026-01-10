@@ -1366,12 +1366,11 @@
   offices:
   - id: B001319-birmingham
     address: 1800 5th Avenue North
-    building: 321 Federal Building
+    suite: Suite 321
+    building: Federal Building
     city: Birmingham
     state: AL
     zip: '35203'
-    latitude: 33.5172948
-    longitude: -86.8104961
     phone: 205-731-1384
   - id: B001319-tuscaloosa
     address: 2005 University Boulevard
@@ -1382,15 +1381,15 @@
     latitude: 33.210198
     longitude: -87.5631669
     phone: 659-251-2880
-  - id: B001319-huntsville
-    address: 660 Gallatin St SW
-    suite: Suite 1400
-    city: Huntsville
+  - id: B001319-mobile
+    address: 113 Saint Joseph Street
+    suite: Room 365
+    city: Mobile
     state: AL
-    zip: '35801'
-    latitude: 34.7242889
-    longitude: -86.5875595
-    phone: 256-429-3450
+    zip: '36602'
+    latitude: 30.6938968
+    longitude: -88.0431577
+    phone: 251-662-9990
   - id: B001319-montgomery
     address: One Church Street
     suite: Suite F-401
@@ -1401,6 +1400,15 @@
     latitude: 32.3717481
     longitude: -86.32518429999999
     phone: 334-777-1150
+  - id: B001319-huntsville
+    address: 660 Gallatin St SW
+    suite: Suite 1400
+    city: Huntsville
+    state: AL
+    zip: '35801'
+    latitude: 34.7242889
+    longitude: -86.5875595
+    phone: 256-429-3450
   - id: B001319-anniston
     address: 1100 Gurnee Avenue
     suite: Suite 306
@@ -1419,15 +1427,6 @@
     latitude: 31.2254074
     longitude: -85.3951147
     phone: 334-500-4097
-  - id: B001319-mobile
-    address: 113 Saint Joseph Street
-    suite: Room 365
-    city: Mobile
-    state: AL
-    zip: '36602'
-    latitude: 30.6938968
-    longitude: -88.0431577
-    phone: 251-662-9990
 - id:
     bioguide: C000059
     govtrack: 400057
