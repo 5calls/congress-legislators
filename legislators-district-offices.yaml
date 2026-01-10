@@ -8737,13 +8737,11 @@
   offices:
   - id: M001214-merrillville
     address: 8001 Broadway
-    suite: Suite 201
+    suite: Suite 102
     city: Merrillville
     state: IN
     zip: '46410'
-    latitude: 41.4728571
-    longitude: -87.3345454
-    fax: 219-795-1850
+    fax: 771-200-5945
     phone: 219-795-1844
 - id:
     bioguide: M001215
