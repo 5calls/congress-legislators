@@ -14107,6 +14107,32 @@
     bioguide: M001236
     govtrack: 457005
   offices:
+  - id: M001236-morganton
+    address: 200 Avery Avenue
+    building: Burke County Government Center
+    city: Morganton
+    state: NC
+    zip: '28655'
+  - id: M001236-shelby
+    address: 311 East Marion Street
+    building: Charles A. Harry Cleveland County Administration Building
+    city: Shelby
+    state: NC
+    zip: '28150'
+  - id: M001236-cornelius
+    address: 21445 Catawba Avenue
+    building: Cornelius Town Hall
+    city: Cornelius
+    state: NC
+    zip: '28031'
+    phone: 980-460-8110
+  - id: M001236-spindale
+    address: 286 ICC Loop Road
+    building: Isothermal Community College, The Foundation
+    city: Spindale
+    state: NC
+    zip: '28160'
+    phone: 980-460-8110
   - id: M001236-gastonia
     address: 128 West Main Ave
     city: Gastonia
