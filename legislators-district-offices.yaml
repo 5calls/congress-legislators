@@ -11009,14 +11009,10 @@
     thomas: '02124'
   offices:
   - id: S001190-lincolnshire
-    address: 111 Barclay Blvd.
-    suite: Suite 200
+    address: 
     city: Lincolnshire
     state: IL
     zip: '60069'
-    latitude: 42.1964098
-    longitude: -87.9362154
-    hours: By appointment only
     fax: 847-793-0677
     phone: 847-383-4870
 - id:
