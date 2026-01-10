@@ -7130,12 +7130,10 @@
     phone: 419-422-7791
   - id: L000566-elyria
     address: 226 Middle Avenue
-    suite: 5th Floor
+    suite: Room 503
     city: Elyria
     state: OH
     zip: '44035'
-    latitude: 41.3656038
-    longitude: -82.10598329999999
     phone: 440-406-5010
 - id:
     bioguide: L000570
