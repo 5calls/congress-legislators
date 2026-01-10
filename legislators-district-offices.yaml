@@ -13597,12 +13597,11 @@
     longitude: -86.3090635
     phone: 334-777-5700
   - id: F000481-mobile
-    address: 351 N. Broad St
+    address: 107 St. Francis St.
+    suite: Unit 1930
     city: Mobile
     state: AL
-    zip: '36603'
-    latitude: 30.6947046
-    longitude: -88.0594986
+    zip: '36602'
     phone: 251-283-6280
 - id:
     bioguide: A000381
