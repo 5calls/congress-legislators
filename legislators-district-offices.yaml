@@ -9074,16 +9074,6 @@
     govtrack: 400295
     thomas: '00868'
   offices:
-  - id: N000147-washington
-    address: 1300 Pennsylvania Ave NW
-    suite: M-1000
-    city: Washington
-    state: DC
-    zip: '20004'
-    latitude: 38.8947157
-    longitude: -77.0302365
-    fax: 202-408-9048
-    phone: 202-408-9041
 - id:
     bioguide: N000188
     govtrack: 412606
