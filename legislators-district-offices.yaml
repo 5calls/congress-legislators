@@ -93,13 +93,10 @@
     thomas: '02201'
   offices:
   - id: A000370-charlotte
-    address: 10815 David Taylor Dr.
-    suite: Suite 100
+    address: 
     city: Charlotte
     state: NC
     zip: '28262'
-    latitude: 35.3369067
-    longitude: -80.7670844
     fax: 704-344-9971
     phone: 704-344-9950
 - id:
