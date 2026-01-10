@@ -5721,35 +5721,16 @@
     bioguide: H001089
     govtrack: 412840
   offices:
-  - id: H001089-cape_girardeau
-    address: 555 Independence Street
-    suite: '#1600'
-    city: Cape Girardeau
-    state: MO
-    zip: 63703-6235
-    latitude: 37.3039
-    longitude: -89.52491
-    fax: 573-334-5947
-    phone: 573-334-5995
   - id: H001089-columbia
     address: 1123 Wilkes Blvd
     suite: Suite 220
     city: Columbia
     state: MO
-    zip: 65201-4774
+    zip: '65201'
     latitude: 38.96012
     longitude: -92.32279
+    fax: 573-256-1805
     phone: 573-554-1919
-  - id: H001089-st__louis
-    address: 111 South 10th Street
-    suite: Suite 23.360
-    city: St. Louis
-    state: MO
-    zip: '63102'
-    latitude: 38.6254919
-    longitude: -90.19710529999999
-    fax: 314-436-8534
-    phone: 314-354-7060
   - id: H001089-kansas_city
     address: 400 E. 9th Street
     suite: Suite 9350
@@ -5769,6 +5750,24 @@
     latitude: 37.2094695
     longitude: -93.2822166
     phone: 417-869-4433
+  - id: H001089-st__louis
+    address: 530 Maryville Centre Drive
+    suite: Suite 460
+    city: St. Louis
+    state: MO
+    zip: '63141'
+    fax: 314-436-8534
+    phone: 314-354-7060
+  - id: H001089-cape_girardeau
+    address: 555 Independence Street
+    suite: #1600
+    city: Cape Girardeau
+    state: MO
+    zip: '63703'
+    latitude: 37.3039
+    longitude: -89.52491
+    fax: 573-334-5947
+    phone: 573-334-5995
 - id:
     bioguide: H001090
     govtrack: 412754
