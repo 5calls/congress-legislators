@@ -10161,13 +10161,10 @@
     govtrack: 412708
   offices:
   - id: R000606-rockville
-    address: 51 Monroe St.
-    suite: Suite 503
+    address: 51 Monroe St
     city: Rockville
     state: MD
     zip: '20850'
-    latitude: 39.083791
-    longitude: -77.1481645
     phone: 301-354-1000
 - id:
     bioguide: R000608
