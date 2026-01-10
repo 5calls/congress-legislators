@@ -10360,14 +10360,12 @@
     latitude: 41.0233229
     longitude: -80.7238671
     phone: 330-967-7312
-  - id: R000619-marietta
-    address: 246 Front Street
-    city: Marietta
+  - id: R000619-st__clairsville
+    address: 101 North Market Street
+    city: St. Clairsville
     state: OH
-    zip: '45750'
-    latitude: 39.4135344
-    longitude: -81.4546344
-    phone: 740-885-4860
+    zip: '43950'
+    phone: 740-338-3738
 - id:
     bioguide: S000033
     govtrack: 400357
