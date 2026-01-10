@@ -2612,16 +2612,12 @@
     bioguide: C001117
     govtrack: 412775
   offices:
-  - id: C001117-glen_ellyn
-    address: 800 Roosevelt Road
-    suite: Suite 204
-    building: Building C
-    city: Glen Ellyn
+  - id: C001117-lombard
+    address: 200 W 22nd St
+    suite: Suite 229
+    city: Lombard
     state: IL
-    zip: '60137'
-    latitude: 41.8616366
-    longitude: -88.0555018
-    hours: By appointment only
+    zip: '60148'
     phone: 630-520-9450
   - id: C001117-oak_forest
     address: 15350 Oak Park Ave
@@ -2630,9 +2626,9 @@
     city: Oak Forest
     state: IL
     zip: '60452'
+    hours: By appointment only
     latitude: 41.6128602
     longitude: -87.7876696
-    hours: By appointment only
 - id:
     bioguide: C001118
     govtrack: 412832
