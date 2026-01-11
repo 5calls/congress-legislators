@@ -13410,6 +13410,33 @@
     latitude: 38.955065
     longitude: -76.828113
     phone: 301-860-0414
+  - id: A000382-easton
+    address: 114 S Washington St
+    suite: Suite 202
+    city: Easton
+    state: MD
+    zip: '21601'
+    phone: 410-546-4250
+  - id: A000382-baltimore
+    address: 100 South Charles Street
+    suite: Suite 1710
+    city: Baltimore
+    state: MD
+    zip: '21201'
+    phone: 410-962-4436
+  - id: A000382-rockville
+    address: 451 Hungerford Dr
+    suite: Suite 230
+    city: Rockville
+    state: MD
+    zip: '20850'
+    phone: 240-599-7390
+  - id: A000382-frederick
+    address: 50 Citizen Way
+    suite: Suite 201
+    city: Frederick
+    state: MD
+    zip: '21701'
 - id:
     bioguide: S001232
     govtrack: 456966
