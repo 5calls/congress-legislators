@@ -14265,6 +14265,13 @@
     latitude: 43.0460543
     longitude: -76.1543099
     phone: 315-233-4333
+  - id: M001231-utica
+    address: 207 Genesee St
+    suite: Suite 405
+    city: Utica
+    state: NY
+    zip: '13501'
+    phone: 315-732-0713
 - id:
     bioguide: T000490
     govtrack: 457014
