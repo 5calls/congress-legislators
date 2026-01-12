@@ -4765,13 +4765,11 @@
     govtrack: 412739
   offices:
   - id: G000585-los_angeles
-    address: 350 S. Bixel St.
-    suite: '#120'
+    address: 515 S Figueroa St
+    suite: #1040
     city: Los Angeles
     state: CA
-    zip: '90017'
-    latitude: 34.0569399
-    longitude: -118.2618953
+    zip: '90071'
     phone: 213-481-1425
 - id:
     bioguide: G000586
