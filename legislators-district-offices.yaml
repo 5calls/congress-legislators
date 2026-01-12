@@ -1969,14 +1969,10 @@
     thomas: '01839'
   offices:
   - id: C001066-tampa
-    address: 4144 N. Armenia Ave.
-    suite: Suite 300
+    address: 2130 W Main St.
     city: Tampa
     state: FL
     zip: '33607'
-    latitude: 27.9771817
-    longitude: -82.48520649999999
-    hours: 9:00am - 5:00pm, please call ahead
     phone: 813-871-2817
   - id: C001066-st__petersburg
     address: 136 Fourth St. N.
@@ -1984,9 +1980,9 @@
     city: St. Petersburg
     state: FL
     zip: '33701'
+    hours: 9:00am - 5:00pm, please call ahead
     latitude: 27.7729281
     longitude: -82.63893
-    hours: 9:00am - 5:00pm, please call ahead
     phone: 727-369-0201
 - id:
     bioguide: C001067
