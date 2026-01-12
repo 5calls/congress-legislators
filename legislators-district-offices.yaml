@@ -8749,6 +8749,13 @@
     bioguide: M001215
     govtrack: 456817
   offices:
+  - id: M001215-davenport
+    address: 201 W 2nd St
+    suite: Suite 705
+    city: Davenport
+    state: IA
+    zip: '52801'
+    phone: 563-232-0930
   - id: M001215-indianola
     address: 126 N Howard Street
     city: Indianola
@@ -8757,15 +8764,6 @@
     latitude: 41.3611821
     longitude: -93.56066039999999
     phone: 515-808-6040
-  - id: M001215-davenport
-    address: 201 W Second Street
-    suite: Suite 705
-    city: Davenport
-    state: IA
-    zip: '52801'
-    latitude: 41.5209702
-    longitude: -90.5758439
-    phone: 563-232-0930
 - id:
     bioguide: M001216
     govtrack: 456889
