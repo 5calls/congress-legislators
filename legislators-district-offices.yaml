@@ -281,12 +281,9 @@
     phone: 541-776-4646
   - id: B000668-ontario
     address: 2430 SW 4th Avenue
-    suite: Suite 2
     city: Ontario
     state: OR
     zip: '97914'
-    latitude: 44.0244314
-    longitude: -116.9984095
     phone: 541-709-2040
 - id:
     bioguide: B000740
