@@ -11104,12 +11104,6 @@
     govtrack: 412648
     thomas: '02263'
   offices:
-  - id: S001196-herkimer
-    address: ''
-    city: Herkimer
-    state: NY
-    zip: ''
-    phone: 315-219-8005
   - id: S001196-plattsburgh
     address: 137 Margaret Street
     suite: Suite 100
