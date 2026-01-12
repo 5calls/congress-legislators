@@ -11418,66 +11418,62 @@
     bioguide: S001213
     govtrack: 412836
   offices:
-  - id: S001213-janesville
-    address: 20 S Main St
-    suite: Suite 10
-    city: Janesville
-    state: WI
-    zip: 53545-3959
-    latitude: 42.68247
-    longitude: -89.02214
-    hours: Tuesday 10:00AM-12:00PM and Thursday 2:00PM-4:00PM
-    phone: 608-752-4050
-  - id: S001213-racine
-    address: 730 Wisconsin Ave
-    suite: Suite 101
-    building: Racine County Courthouse
-    city: Racine
-    state: WI
-    zip: 53403-1238
-    latitude: 42.72521
-    longitude: -87.78431
-    hours: Mondays 9:00AM-11:00AM
-    phone: 262-637-0510
-  - id: S001213-bristol
-    address: 19600 75th Street
-    suite: Room 177
-    city: Bristol
-    state: WI
-    zip: '53104'
-    latitude: 42.5698345
-    longitude: -88.0445211
-    hours: Tuesday 10:00AM-12:00PM
-    phone: 262-654-1901
-  - id: S001213-elkhorn
-    address: 101 N. Wisconsin Street
-    building: Matheson Memorial Library, Mary Bray Room
-    city: Elkhorn
-    state: WI
-    zip: '53121'
-    latitude: 42.6738586
-    longitude: -88.54314939999999
-    hours: Thursday 9:00AM-11:00AM
-    phone: 262-654-1901
-  - id: S001213-st_francis
-    address: 3400 E Howard Avenue
-    building: St Francis Civic Center
-    city: St Francis
-    state: WI
-    zip: '53235'
-    latitude: 42.974132
-    longitude: -87.86497020000002
-    hours: Wednesday 2:00PM-4:00PM
-    phone: 414-285-2120
   - id: S001213-beloit
     address: 100 State St
     building: Beloit City Hall Conference Room
     city: Beloit
     state: WI
     zip: '53511'
+    hours: Wednesday 9:00AM-11:00AM
     latitude: 42.4975499
     longitude: -89.036943
-    hours: Wednesday 9:00AM-11:00AM
+    phone: 608-752-4050
+  - id: S001213-st_francis
+    address: 3400 E Howard Avenue
+    building: St Francis Civic Center
+    city: St Francis
+    state: WI
+    zip: '53235'
+    hours: Wednesday 2:00PM-4:00PM
+    latitude: 42.974132
+    longitude: -87.86497020000002
+    phone: 414-285-2120
+  - id: S001213-elkhorn
+    address: 1910 County Rd NN
+    building: Walworth County HHS, Delavan Lake Conference Room
+    city: Elkhorn
+    state: WI
+    zip: '53121'
+  - id: S001213-bristol
+    address: 19600 75th Street
+    suite: Room 177
+    city: Bristol
+    state: WI
+    zip: '53104'
+    hours: Tuesday 10:00AM-12:00PM
+    latitude: 42.5698345
+    longitude: -88.0445211
+    phone: 262-654-1901
+  - id: S001213-racine
+    address: 730 Wisconsin Ave
+    suite: Suite 101
+    building: Racine County Courthouse
+    city: Racine
+    state: WI
+    zip: '53403'
+    hours: Mondays 9:00AM-11:00AM
+    latitude: 42.72521
+    longitude: -87.78431
+    phone: 262-637-0510
+  - id: S001213-janesville
+    address: 20 S Main St
+    suite: Suite 10
+    city: Janesville
+    state: WI
+    zip: '53545'
+    hours: Tuesday 10:00AM-12:00PM and Thursday 2:00PM-4:00PM
+    latitude: 42.68247
+    longitude: -89.02214
     phone: 608-752-4050
 - id:
     bioguide: S001214
