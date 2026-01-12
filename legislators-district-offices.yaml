@@ -13282,15 +13282,13 @@
     latitude: 36.73764940448596
     longitude: -119.78374599676975
     phone: 559-485-7430
-  - id: S001150-san_diego
-    address: 880 Front Street
-    suite: Suite 4236
-    city: San Diego
+  - id: S001150-burbank
+    address: 4111 W. Alameda Ave
+    suite: Suite 608
+    city: Burbank
     state: CA
-    zip: '92101'
-    latitude: 32.71445658682798
-    longitude: -117.16484326622106
-    phone: 619-231-9712
+    zip: '91505'
+    phone: 818-303-3841
 - id:
     bioguide: K000394
     govtrack: 412797
