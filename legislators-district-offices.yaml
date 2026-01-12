@@ -13363,14 +13363,14 @@
     zip: '71101'
     latitude: 32.5121123
     longitude: -93.7538729
+    phone: 318-761-7990
   - id: F000110-opelousas
-    address: 1310 S Union St.
-    suite: Suite 4
+    address: 1310 South Union Street
+    suite: Suite #5
     city: Opelousas
     state: LA
     zip: '70570'
-    latitude: 30.5211583
-    longitude: -92.0853277
+    phone: 337-594-6610
 - id:
     bioguide: S001188
     govtrack: 412392
