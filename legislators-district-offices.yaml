@@ -10069,10 +10069,9 @@
     govtrack: 412664
     thomas: '02222'
   offices:
-  - id: R000600-pagopago
+  - id: R000600-pago_pago
     address: 1 Fagatogo Square
-    suite: Box 5859
-    city: Pagopago
+    city: Pago Pago
     state: AS
     zip: '96799'
     fax: 684-633-3607
