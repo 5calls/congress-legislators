@@ -2845,23 +2845,21 @@
     bioguide: C001131
     govtrack: 456945
   offices:
-  - id: C001131-san_antonio
-    city: San Antonio
-    state: TX
-    zip: '78205'
-    latitude: 29.4176275
-    longitude: -98.4847181
-    hours: By appointment only
-    phone: 210-580-7000
   - id: C001131-austin
-    address: Austin
+    address: 
     city: Austin
     state: TX
     zip: '78702'
-    latitude: 30.267153
-    longitude: -97.7430608
-    hours: By appointment only
     phone: 512-691-1200
+  - id: C001131-san_antonio
+    address: 
+    city: San Antonio
+    state: TX
+    zip: '78205'
+    hours: By appointment only
+    latitude: 29.4176275
+    longitude: -98.4847181
+    phone: 210-580-7000
 - id:
     bioguide: C001132
     govtrack: 456879
