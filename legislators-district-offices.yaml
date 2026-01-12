@@ -10479,28 +10479,21 @@
     city: Miami
     state: FL
     zip: '33144'
+    hours: Mondays-Fridays 9AM - 5PM
     latitude: 25.763749
     longitude: -80.2911674
-    hours: Mondays-Fridays 9AM - 5PM
     phone: 305-668-2285
   - id: S000168-palmetto_bay
-    address: 9705 Hibiscus Street
+    address: Address Available Upon Request
     city: Palmetto Bay
     state: FL
     zip: '33157'
-    latitude: 25.6041693
-    longitude: -80.3493086
-    hours: By appointment only
     phone: 305-668-2285
   - id: S000168-cutler_bay
-    address: 10720 Caribbean Blvd
-    suite: Suite 220
+    address: Address Available Upon Request
     city: Cutler Bay
     state: FL
     zip: '33189'
-    latitude: 25.5771135
-    longitude: -80.3655714
-    hours: By appointment only
     phone: 305-668-2285
 - id:
     bioguide: S000185
