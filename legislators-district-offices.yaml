@@ -1081,13 +1081,21 @@
     phone: 231-944-7633
   - id: B001301-gwinn
     address: 125 G Avenue
-    suite: B
+    suite: Suite B-119
     city: Gwinn
     state: MI
     zip: '49841'
-    latitude: 46.28105559999999
-    longitude: -87.4409718
     phone: 906-273-2227
+  - id: B001301-escanaba
+    address: P.O Box 281
+    city: Escanaba
+    state: MI
+    zip: '49807'
+  - id: B001301-oscoda
+    address: P.O. Box 498
+    city: Oscoda
+    state: MI
+    zip: '48750'
 - id:
     bioguide: B001302
     govtrack: 412683
