@@ -10603,21 +10603,11 @@
     govtrack: 400380
     thomas: '01071'
   offices:
-  - id: S000522-middletown
-    address: 1715 Highway 35 North
-    suite: Suite 303
-    city: Middletown
-    state: NJ
-    zip: '07748'
-    phone: 732-780-3035
   - id: S000522-toms_river
-    address: 33 Washington Street
-    building: P.O. Box 728
+    address: 1005 Hooper Avenue
     city: Toms River
     state: NJ
-    zip: '08754'
-    latitude: 39.952548
-    longitude: -74.1967744
+    zip: '08753'
     phone: 732-504-0567
 - id:
     bioguide: S000929
