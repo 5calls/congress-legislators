@@ -5919,14 +5919,10 @@
     govtrack: 456905
   offices:
   - id: I000058-landover
-    address: 4301 Garden City Dr.
-    suite: Suite 405
+    address: 4301 Garden City Drive
     city: Landover
     state: MD
     zip: '20785'
-    latitude: 38.948776
-    longitude: -76.8696618
-    fax: 202-225-2848
     phone: 240-906-6262
 - id:
     bioguide: J000288
