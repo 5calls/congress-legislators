@@ -7593,29 +7593,42 @@
     city: Clairton
     state: PA
     zip: '15025'
+    hours: First and third Wednesday of every month 10AM-2PM
     latitude: 40.2962166
     longitude: -79.89468339999999
-    hours: First and third Wednesday of every month 10AM-2PM
-    phone: 412-214-5000
-  - id: L000602-bethel_park
-    address: 5100 W Library Ave
-    city: Bethel Park
+  - id: L000602-monroeville
+    address: 2700 Monroeville Blivd
+    city: Monroeville
     state: PA
-    zip: '15102'
-    latitude: 40.3323201
-    longitude: -80.0314408
-    hours: Second and fourth Tuesday of every month 10AM-2PM
-    phone: 412-214-5000
+    zip: '15146'
   - id: L000602-pittsburgh
     address: 211 N Whitfield St.
     suite: Suite 802
     city: Pittsburgh
     state: PA
     zip: '15206'
+    hours: Monday-Friday 9AM-5PM
     latitude: 40.4631175
     longitude: -79.9252604
-    hours: Monday-Friday 9AM-5PM
     fax: 771-200-5826
+    phone: 412-214-5000
+  - id: L000602-jeannette
+    address: 110 S 2nd Street
+    city: Jeannette
+    state: PA
+    zip: '15644'
+    hours: First and third Thursday of every month 10AM-2PM
+    latitude: 40.3264515
+    longitude: -79.6158246
+    phone: 412-214-5000
+  - id: L000602-bethel_park
+    address: 5100 W Library Ave
+    city: Bethel Park
+    state: PA
+    zip: '15102'
+    hours: Second and fourth Tuesday of every month 10AM-2PM
+    latitude: 40.3323201
+    longitude: -80.0314408
     phone: 412-214-5000
   - id: L000602-pittsburgh-1
     address: 1555 Broadway Avenue
@@ -7623,18 +7636,9 @@
     city: Pittsburgh
     state: PA
     zip: '15216'
+    hours: Second and fourth Wednesday of every month 10AM-2PM
     latitude: 40.4107097
     longitude: -80.0245061
-    hours: Second and fourth Wednesday of every month 10AM-2PM
-    phone: 412-412-5000
-  - id: L000602-jeannette
-    address: 110 S 2nd Street
-    city: Jeannette
-    state: PA
-    zip: '15644'
-    latitude: 40.3264515
-    longitude: -79.6158246
-    hours: First and third Thursday of every month 10AM-2PM
     phone: 412-214-5000
 - id:
     bioguide: L000603
