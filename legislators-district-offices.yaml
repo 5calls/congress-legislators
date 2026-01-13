@@ -12329,10 +12329,16 @@
     bioguide: U000040
     govtrack: 412776
   offices:
+  - id: U000040-dekalb
+    address: 2179 Sycamore Road
+    suite: Suite 107
+    city: Dekalb
+    state: IL
+    zip: '60115'
+    phone: 630-549-2190
   - id: U000040-joliet
     address: 116 N. Chicago Street
     suite: Suite 201
-    building: Joliet District Office
     city: Joliet
     state: IL
     zip: '60432'
