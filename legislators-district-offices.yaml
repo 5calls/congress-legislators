@@ -14373,14 +14373,11 @@
     longitude: -75.3225594
     phone: 570-534-6220
   - id: B001327-forty_fort
-    address: 900 Rutter Ave
-    suite: 1st Floor, Suite C
-    building: Bldg. B
-    city: Forty-Fort
+    address: 900 Rutter Avenue
+    suite: Bldg. B, 1st Floor, Suite C, Box 23
+    city: Forty Fort
     state: PA
     zip: '18704'
-    latitude: 41.2734359
-    longitude: -75.88007
     phone: 570-763-6120
   - id: B001327-hazleton
     address: 145 E Broad St
