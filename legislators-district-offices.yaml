@@ -8866,18 +8866,16 @@
     govtrack: 456929
   offices:
   - id: M001222-parma
-    address: ''
+    address: Parma
     city: Parma
     state: OH
     zip: ''
-    hours: By appointment only
     phone: 440-692-6120
   - id: M001222-medina
-    address: ''
+    address: Medina
     city: Medina
     state: OH
     zip: ''
-    hours: By appointment only
     phone: 330-661-6654
 - id:
     bioguide: M001223
