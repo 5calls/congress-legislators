@@ -11748,13 +11748,11 @@
     longitude: -90.5783808
     phone: 309-786-3406
   - id: S001225-peoria
-    address: 403-1/2 NE Jefferson Street
+    address: 403-1/2 NE Jefferson Avenue
     building: Conductor's Quarters Building
     city: Peoria
     state: IL
     zip: '61603'
-    latitude: 40.6954976
-    longitude: -89.58673759999999
     phone: 309-621-7070
 - id:
     bioguide: S001226
