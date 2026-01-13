@@ -9682,28 +9682,24 @@
     govtrack: 412659
     thomas: '02274'
   offices:
+  - id: P000610-st__thomas
+    address: 9100 Havensight Port of Sale Mall
+    suite: Suite 22
+    city: St. Thomas
+    state: VI
+    zip: '00802'
+    fax: 340-774-8033
+    phone: 340-774-4408
   - id: P000610-frederiksted
     address: 60 King St.
     city: Frederiksted
     state: VI
     zip: '00840'
+    hours: 8:30 - 5pm
     latitude: 17.712475
     longitude: -64.882701
     fax: 340-778-5111
-    hours: 8:30 - 5pm
     phone: 340-778-5900
-  - id: P000610-st__thomas
-    address: 9100 Havensight
-    suite: Suite 22
-    building: Port of Sale Mall
-    city: St. Thomas
-    state: VI
-    zip: '00802'
-    latitude: 18.334264
-    longitude: -64.919169
-    fax: 340-774-8033
-    hours: 8:30-5pm
-    phone: 340-774-4408
 - id:
     bioguide: P000613
     govtrack: 412685
