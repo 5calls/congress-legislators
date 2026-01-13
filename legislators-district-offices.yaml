@@ -2563,6 +2563,13 @@
     bioguide: C001114
     govtrack: 412740
   offices:
+  - id: C001114-provo
+    address: 3601 N University Ave
+    suite: Suite 250
+    city: Provo
+    state: UT
+    zip: '84604'
+    phone: 801-841-2665
   - id: C001114-salt_lake_city
     address: 125 S. State Street
     suite: Suite 8402
