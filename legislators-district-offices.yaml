@@ -14611,7 +14611,7 @@
     suite: Suite 2105
     city: Tallahassee
     state: FL
-    zip: 32399-6526
+    zip: '32399'
     latitude: 30.4381132
     longitude: -84.2813144
     phone: 850-599-9100
@@ -14620,7 +14620,7 @@
     suite: Suite B-1
     city: Palm Beach Gardens
     state: FL
-    zip: 33418-3920
+    zip: '33418'
     latitude: 26.8085681
     longitude: -80.1113367
     phone: 561-775-3360
@@ -14635,21 +14635,19 @@
     phone: 904-354-4300
   - id: M001244-miami
     address: 9130 S Dadeland Blvd.
-    suite: 1510
+    suite: '1510'
     city: Miami
     state: FL
-    zip: 33156-7850
+    zip: '33156'
     latitude: 25.6852013
     longitude: -80.3141728
     phone: 305-596-4224
   - id: M001244-orlando
-    address: 201 S Orange Av.
+    address: 201 S. Orange Ave.
     suite: Suite 350
     city: Orlando
     state: FL
-    zip: 32801-3499
-    latitude: 28.5401009
-    longitude: -81.37816029999999
+    zip: '32801'
     phone: 407-254-2573
   - id: M001244-fort_myers
     address: 2120 Main Street
@@ -14660,6 +14658,12 @@
     latitude: 26.6423574
     longitude: -81.8702443
     phone: 239-318-6464
+  - id: M001244-tampa
+    address: 801 N. Florida Ave.
+    suite: Suite 1108
+    city: Tampa
+    state: FL
+    zip: '33602'
 - id:
     bioguide: H001103
     govtrack: 457019
