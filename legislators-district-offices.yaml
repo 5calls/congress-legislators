@@ -11782,16 +11782,6 @@
     bioguide: S001227
     govtrack: 456875
   offices:
-  - id: S001227-st__louis
-    address: 111 South 10th Street
-    suite: Suite 23.305
-    building: Thomas F. Eagleton US Courthouse
-    city: St. Louis
-    state: MO
-    zip: '63102'
-    latitude: 38.6254919
-    longitude: -90.19710529999999
-    phone: 314-230-7263
   - id: S001227-columbia
     address: 1123 Wilkes Boulevard
     suite: Suite 320
@@ -11828,6 +11818,14 @@
     latitude: 37.3034239
     longitude: -89.5249041
     phone: 573-388-8340
+  - id: S001227-st__louis
+    address: 111 South 10th Street
+    suite: Suite 23.360
+    building: Thomas F. Eagleton US Courthouse
+    city: St. Louis
+    state: MO
+    zip: '63102'
+    phone: 314-230-7263
 - id:
     bioguide: T000165
     govtrack: 456791
