@@ -10937,17 +10937,6 @@
     govtrack: 412396
     thomas: '01988'
   offices:
-  - id: S001185-selma
-    address: 908 Alabama Ave.
-    suite: Suite 112
-    building: Federal Building
-    city: Selma
-    state: AL
-    zip: '36701'
-    latitude: 32.4071252
-    longitude: -87.0214629
-    fax: 334-877-4489
-    phone: 334-877-4414
   - id: S001185-birmingham
     address: Two 20th Street North
     suite: Suite 1130
@@ -10961,7 +10950,6 @@
   - id: S001185-montgomery
     address: 101 S. Lawrence St.
     suite: Annex 3
-    building: Courthouse
     city: Montgomery
     state: AL
     zip: '36104'
@@ -10969,15 +10957,22 @@
     longitude: -86.3054822
     fax: 334-262-1921
     phone: 334-262-1919
+  - id: S001185-selma
+    address: 908 Alabama Ave.
+    suite: Suite 112
+    building: Federal Building
+    city: Selma
+    state: AL
+    zip: '36701'
+    latitude: 32.4071252
+    longitude: -87.0214629
+    fax: 334-877-4489
+    phone: 334-877-4414
   - id: S001185-tuscaloosa
-    address: 2501 7th St.
-    suite: Suite 300
+    address: 2122 Gary Fitts Street
     city: Tuscaloosa
     state: AL
     zip: '35401'
-    latitude: 33.2071459
-    longitude: -87.56926
-    fax: 205-752-5899
     phone: 205-752-5380
 - id:
     bioguide: S001189
