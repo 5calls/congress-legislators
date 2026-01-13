@@ -13976,6 +13976,13 @@
     bioguide: M001237
     govtrack: 456995
   offices:
+  - id: M001237-saginaw
+    address: 4800 Fashion Square Blvd.
+    suite: Suite 200
+    city: Saginaw
+    state: MI
+    zip: '48604'
+    phone: 989-898-6060
   - id: M001237-flint
     address: 601 Saginaw St
     suite: Suite 403
