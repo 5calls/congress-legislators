@@ -8827,13 +8827,12 @@
     bioguide: M001218
     govtrack: 456894
   offices:
-  - id: M001218-cumming
-    address: 115 W Court House Square
-    city: Cumming
+  - id: M001218-alpharetta
+    address: 6230 Shiloh Road
+    suite: Suite 230
+    city: Alpharetta
     state: GA
-    zip: '30040'
-    latitude: 34.2064422
-    longitude: -84.1406226
+    zip: '30005'
     phone: 770-232-3005
 - id:
     bioguide: M001219
