@@ -13233,15 +13233,6 @@
     govtrack: 412640
     thomas: '02254'
   offices:
-  - id: Z000018-bozeman
-    address: 601 Nikles Drive
-    suite: '#5'
-    city: Bozeman
-    state: MT
-    zip: '59715'
-    latitude: 45.6984566
-    longitude: -111.0438878
-    phone: 406-602-6030
   - id: Z000018-missoula
     address: 2901 W. Broadway Street
     suite: Suite 200
@@ -13250,7 +13241,7 @@
     zip: '59808'
     latitude: 46.89120440000001
     longitude: -114.0311451
-    phone: 406-317-0276
+    phone: 406-317-0277
   - id: Z000018-kalispell
     address: 923 South Main
     city: Kalispell
