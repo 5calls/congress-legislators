@@ -11674,11 +11674,10 @@
   offices:
   - id: S001221-grand_rapids
     address: 110 Michigan Street NW
+    suite: Suite 460
     city: Grand Rapids
     state: MI
     zip: '49503'
-    latitude: 42.9699542
-    longitude: -85.67097989999999
     phone: 616-451-8383
 - id:
     bioguide: S001223
