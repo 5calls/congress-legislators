@@ -5032,6 +5032,16 @@
     longitude: -122.6608434
     phone: 360-695-6292
 - id:
+    bioguide: G000606
+    govtrack: 457037
+  offices:
+  - id: G000606-tucson
+    address: Tucson District Office
+    city: Tucson
+    state: AZ
+    zip: '85701'
+    phone: 520-416-7680
+- id:
     bioguide: H000273
     govtrack: 456797
   offices:
