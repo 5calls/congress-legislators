@@ -13654,6 +13654,19 @@
     bioguide: L000607
     govtrack: 456976
   offices:
+  - id: L000607-los_altos
+    address: 181 Hillview Ave
+    building: Neutra House
+    city: Los Altos
+    state: CA
+    zip: '94022'
+  - id: L000607-san_josé
+    address: 1101 S Winchester Blvd
+    suite: Suite C-120 South
+    city: San José
+    state: CA
+    zip: '95128'
+    phone: 408-245-2339
   - id: L000607-half_moon_bay
     address: 270 Capistrano Rd
     suite: Suite 6
@@ -13662,6 +13675,7 @@
     zip: '94019'
     latitude: 37.5042712
     longitude: -122.48632
+    phone: 650-323-2984
 - id:
     bioguide: W000830
     govtrack: 456977
