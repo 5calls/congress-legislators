@@ -3742,13 +3742,6 @@
     bioguide: F000246
     govtrack: 456845
   offices:
-  - id: F000246-rockwall
-    address: 6531 Horizon Rd.
-    suite: Suite A
-    city: Rockwall
-    state: TX
-    zip: '75032'
-    phone: 972-771-0100
   - id: F000246-sherman
     address: 100 West Houston St.
     suite: Suite 14
@@ -3766,14 +3759,18 @@
     latitude: 33.4622155
     longitude: -94.33651379999999
     phone: 903-716-7500
-  - id: F000246-frisco
-    address: 6101 Frisco Square Blvd
-    city: Frisco
+  - id: F000246-rockwall
+    address: 6531 Horizon Rd.
+    suite: Suite A
+    city: Rockwall
     state: TX
-    zip: '75034'
-    latitude: 33.1501723
-    longitude: -96.837042
-    hours: By appointment only
+    zip: '75032'
+    phone: 972-771-0100
+  - id: F000246-
+    address: 
+    city: 
+    state: TX
+    zip: ''
     phone: 202-913-4115
 - id:
     bioguide: F000446
