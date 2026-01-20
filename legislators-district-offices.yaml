@@ -13924,13 +13924,11 @@
     govtrack: 456991
   offices:
   - id: O000176-towson
-    address: 110 West Rd
-    suite: Suite 420
+    address: 110 West Road
+    suite: Suite 420, Building B
     city: Towson
     state: MD
     zip: '21204'
-    latitude: 39.4121384
-    longitude: -76.6194258
     phone: 410-427-5725
 - id:
     bioguide: E000301
