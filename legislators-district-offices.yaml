@@ -2542,23 +2542,28 @@
     city: Las Vegas
     state: NV
     zip: '89101'
+    hours: Monday-Friday; 8:00am – 5:00pm PT
     latitude: 36.1651058
     longitude: -115.1424211
     fax: 702-388-5030
-    hours: Monday-Friday; 8:00am – 5:00pm PT
     phone: 702-388-5020
   - id: C001113-reno
     address: 400 South Virginia Street
     suite: Suite 902
-    building: Courthouse and Federal Building
     city: Reno
     state: NV
     zip: '89501'
+    hours: Monday-Friday; 8:00am-5:00pm PT
     latitude: 39.5215352
     longitude: -119.810287
     fax: 775-686-5757
-    hours: Monday-Friday; 8:00am-5:00pm PT
     phone: 775-686-5750
+  - id: C001113-rural_mobile_office
+    address: 
+    city: Rural Mobile Office
+    state: NV
+    zip: ''
+    phone: 775-225-1457
 - id:
     bioguide: C001114
     govtrack: 412740
