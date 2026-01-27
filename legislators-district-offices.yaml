@@ -4370,6 +4370,23 @@
     govtrack: 400158
     thomas: '01656'
   offices:
+  - id: G000546-hannibal
+    address: 6079 Co Rd 425
+    suite: PO Box 364
+    city: Hannibal
+    state: MO
+    zip: '63401'
+    phone: 573-221-3400
+  - id: G000546-kansas_city
+    address: 12200 North Ambassador Dr
+    suite: Suite 234
+    city: Kansas City
+    state: MO
+    zip: '64163'
+    latitude: 39.3136895
+    longitude: -94.6842439
+    fax: 816-792-0694
+    phone: 816-792-3976
   - id: G000546-st__joseph
     address: 411 Jules St.
     suite: Room 111
@@ -4389,24 +4406,6 @@
     latitude: 38.98025579999999
     longitude: -90.9822535
     phone: 636-622-7106
-  - id: G000546-hannibal
-    address: 6079 Co Rd 425
-    city: Hannibal
-    state: MO
-    zip: '63401'
-    latitude: 39.7251069
-    longitude: -91.44607649999999
-    phone: 573-221-3400
-  - id: G000546-kansas_city
-    address: 12200 North Ambassador Dr
-    suite: Suite 234
-    city: Kansas City
-    state: MO
-    zip: '64163'
-    latitude: 39.3136895
-    longitude: -94.6842439
-    fax: 816-792-0694
-    phone: 816-792-3976
 - id:
     bioguide: G000553
     govtrack: 400653
