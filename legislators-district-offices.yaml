@@ -8483,16 +8483,14 @@
     bioguide: M001204
     govtrack: 412811
   offices:
-  - id: M001204-pottsville
-    address: 121 Progress Ave
-    suite: Suite 110
-    building: Losch Plaza
-    city: Pottsville
+  - id: M001204-hamburg
+    address: Hamburg Municipal Center 2nd floor, 61 N 3rd St
+    suite: 2nd floor
+    building: Hamburg Municipal Center
+    city: Hamburg
     state: PA
-    zip: 17901-2968
-    latitude: 40.68623
-    longitude: -76.19489
-    phone: 570-871-6370
+    zip: '19526'
+    phone: 610-428-0869
   - id: M001204-lebanon
     address: 400 S 8th St
     building: Lebanon County Courthouse
@@ -8502,6 +8500,14 @@
     latitude: 40.3329066
     longitude: -76.42320509999999
     phone: 717-603-1459
+  - id: M001204-tunkhannock
+    address: 511 Mile Road
+    city: Tunkhannock
+    state: PA
+    zip: '18657'
+    latitude: 41.558628
+    longitude: -75.953906
+    phone: 570-665-3083
   - id: M001204-williamsport
     address: 330 Pine Street
     suite: 1st Floor
@@ -8512,45 +8518,29 @@
     latitude: 41.2412339
     longitude: -77.0028713
     phone: 570-202-0658
-  - id: M001204-bloomsburg
-    address: 1000 Market Street
-    suite: Suite 39, Office of Rep. Robert Leadbeter
-    building: Market Street Plaza
-    city: Bloomsburg
-    state: PA
-    zip: '17815'
-    latitude: 40.9938097
-    longitude: -76.4526697
-    hours: By appointment only
-    phone: 570-871-6370
   - id: M001204-berwick
     address: 134 W Front Street
-    suite: Suite 102, Office of Rep. Robert Leadbeter
+    suite: Suite 102
+    building: The Office Rep. Robert Leadbeter
     city: Berwick
     state: PA
     zip: '18603'
-    latitude: 41.0539757
-    longitude: -76.2347432
-    hours: By appointment only
+  - id: M001204-catawissa
+    address: 555 River Hill Drive
+    building: The Office of Rep. Robert Leadbeter
+    city: Catawissa
+    state: PA
+    zip: '17820'
+  - id: M001204-pottsville
+    address: 121 Progress Ave
+    suite: Suite 110
+    building: Losch Plaza
+    city: Pottsville
+    state: PA
+    zip: '17901'
+    latitude: 40.68623
+    longitude: -76.19489
     phone: 570-871-6370
-  - id: M001204-tunkhannock
-    address: 511 Mile Road
-    city: Tunkhannock
-    state: PA
-    zip: '18657'
-    latitude: 41.558628
-    longitude: -75.953906
-    phone: 570-665-3083
-  - id: M001204-hamburg
-    address: 61 N 3rd St
-    suite: 2nd floor
-    building: Hamburg Municipal Center
-    city: Hamburg
-    state: PA
-    zip: '19526'
-    latitude: 40.5564356
-    longitude: -75.984104
-    phone: 610-428-0869
 - id:
     bioguide: M001205
     govtrack: 412837
