@@ -6369,15 +6369,23 @@
     govtrack: 412465
     thomas: '02051'
   offices:
-  - id: K000376-sharon
-    address: 33 Chestnut Ave.
-    city: Sharon
+  - id: K000376-erie
+    address: 17 S. Park Row
+    suite: Suite A430
+    city: Erie
     state: PA
-    zip: '16146'
-    latitude: 41.2315486
-    longitude: -80.5079773
-    fax: 724-342-7242
+    zip: '16501'
     hours: Monday through Friday, 9 a.m. to 5 p.m.
+    latitude: 42.1291352
+    longitude: -80.0836958
+    fax: 771-200-5704
+    phone: 814-454-8190
+  - id: K000376-hermitage
+    address: 3877 East State Street
+    city: Hermitage
+    state: PA
+    zip: '16148'
+    fax: 771-200-5670
     phone: 724-342-7170
   - id: K000376-butler
     address: 245 Pittsburgh Road
@@ -6385,22 +6393,11 @@
     city: Butler
     state: PA
     zip: '16001'
+    hours: Monday through Friday, 9 a.m. to 5 p.m.
     latitude: 40.817825
     longitude: -79.92657
-    hours: Monday through Friday, 9 a.m. to 5 p.m.
-    fax: 724-282-3682
+    fax: 771-200-5675
     phone: 724-282-2557
-  - id: K000376-erie
-    address: 17 S. Park Row
-    suite: Suite A430
-    city: Erie
-    state: PA
-    zip: '16501'
-    latitude: 42.1291352
-    longitude: -80.0836958
-    hours: Monday through Friday, 9 a.m. to 5 p.m.
-    fax: 814-454-8197
-    phone: 814-454-8190
 - id:
     bioguide: K000377
     govtrack: 456794
