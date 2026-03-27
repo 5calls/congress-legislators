@@ -8613,6 +8613,14 @@
     bioguide: M001210
     govtrack: 412845
   offices:
+  - id: M001210-new_bern
+    address: 2402 Dr. M.L.K. Jr. Blvd.
+    city: New Bern
+    state: NC
+    zip: '28562'
+    latitude: 35.1064547
+    longitude: -77.0791134
+    phone: 252-636-6612
   - id: M001210-greenville
     address: 1105 Corporate Drive
     suite: Suite C
@@ -8622,6 +8630,21 @@
     latitude: 35.5806764
     longitude: -77.35680359999999
     phone: 252-931-1003
+  - id: M001210-jacksonville
+    address: 815 New Bridge Street
+    city: Jacksonville
+    state: NC
+    zip: '28540'
+    latitude: 34.7496251
+    longitude: -77.420987
+    phone: 910-937-6929
+  - id: M001210-beaufort
+    address: 302 Courthouse Square
+    building: Carteret County Government Administration Building
+    city: Beaufort
+    state: NC
+    zip: '28516'
+    phone: 252-499-0540
   - id: M001210-manteo
     address: 954 Marshall C. Collins Dr
     suite: Room 194
@@ -8631,22 +8654,6 @@
     latitude: 35.8899449
     longitude: -75.6652654
     phone: 252-230-3549
-  - id: M001210-jacksonville
-    address: 815 New Bridge Street
-    city: Jacksonville
-    state: NC
-    zip: '28540'
-    latitude: 34.7496251
-    longitude: -77.420987
-    phone: 910-937-6929
-  - id: M001210-new_bern
-    address: 2402 Dr. M.L.K. Jr. Blvd.
-    city: New Bern
-    state: NC
-    zip: '28562'
-    latitude: 35.1064547
-    longitude: -77.0791134
-    phone: 252-636-6612
 - id:
     bioguide: M001211
     govtrack: 456820
