@@ -12832,6 +12832,13 @@
     govtrack: 412255
     thomas: '01886'
   offices:
+  - id: W000804-tappahannock
+    address: 508 Church Lane
+    city: Tappahannock
+    state: VA
+    zip: '22560'
+    fax: 804-443-0671
+    phone: 804-443-0668
   - id: W000804-glen_allen
     address: 4201 Dominion Blvd
     suite: Suite 110
