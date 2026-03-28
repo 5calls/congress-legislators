@@ -8669,6 +8669,12 @@
     latitude: 39.9347879
     longitude: -91.36335760000001
     phone: 217-640-6210
+  - id: M001211-highland
+    address: 1001 Main Street
+    city: Highland
+    state: IL
+    zip: '62249'
+    phone: 217-703-6100
 - id:
     bioguide: M001212
     govtrack: 456800
