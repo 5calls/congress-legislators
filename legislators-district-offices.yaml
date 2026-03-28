@@ -615,12 +615,11 @@
     longitude: -104.8189674
     phone: 307-772-2451
   - id: B001261-riverton
-    address: 324 E. Washington Ave.
+    address: 1900 W Sunset Dr
+    suite: Suite B
     city: Riverton
     state: WY
     zip: '82501'
-    latitude: 43.0238609
-    longitude: -108.386731
     phone: 307-856-6642
   - id: B001261-rock_springs
     address: 1575 Dewar Drive
