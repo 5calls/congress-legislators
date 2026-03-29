@@ -7654,6 +7654,13 @@
     govtrack: 400253
     thomas: '00735'
   offices:
+  - id: M000133-boston
+    address: 15 New Sudbury St
+    building: JFK Federal Building
+    city: Boston
+    state: MA
+    zip: '02203'
+    phone: 617-565-8519
   - id: M000133-springfield
     address: 1550 Main St.
     suite: 4th Floor
@@ -7663,16 +7670,6 @@
     latitude: 42.10321649999999
     longitude: -72.5929441
     phone: 413-785-4610
-  - id: M000133-boston
-    address: 15 New Sudbury St
-    suite: Suite 975
-    building: JFK Federal Building
-    city: Boston
-    state: MA
-    zip: '02203'
-    latitude: 42.3609639
-    longitude: -71.06031329999999
-    phone: 617-565-8519
 - id:
     bioguide: M000194
     govtrack: 456843
