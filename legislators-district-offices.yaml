@@ -14470,14 +14470,19 @@
     bioguide: M001239
     govtrack: 457026
   offices:
+  - id: M001239-goochland
+    address: 1900 Manakin Road
+    suite: Suite D
+    city: Goochland
+    state: VA
+    zip: '23103'
+    phone: 804-708-6025
   - id: M001239-lynchburg
-    address: 900 Church St
+    address: 20564 Timberlake Rd.
     city: Lynchburg
     state: VA
-    zip: '24505'
-    latitude: 37.4140693
-    longitude: -79.1451377
-    phone: 202-225-4711
+    zip: '24502'
+    phone: 434-791-2596
 - id:
     bioguide: V000138
     govtrack: 457027
