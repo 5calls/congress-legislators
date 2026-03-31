@@ -3685,7 +3685,7 @@
   offices:
   - id: E000297-new_york
     address: 163 West 125th Street
-    suite: '#508'
+    suite: #508
     building: Harlem State Office Building
     city: New York
     state: NY
@@ -3703,13 +3703,10 @@
     longitude: -73.9368293
     phone: 212-497-5959
   - id: E000297-bronx
-    address: 3107 Kingsbridge Avenue
+    address: By Appointment Only
     city: Bronx
     state: NY
     zip: '10463'
-    latitude: 40.8801727
-    longitude: -73.9090502
-    hours: By appointment only
     phone: 646-740-3632
 - id:
     bioguide: E000298
