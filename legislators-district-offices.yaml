@@ -10633,13 +10633,10 @@
     longitude: -86.0762857
     phone: 317-848-0201
   - id: S000929-muncie
-    address: 420 S High Street
-    suite: Suite 207
+    address: 416 S High Street
     city: Muncie
     state: IN
     zip: '47305'
-    latitude: 40.1904737
-    longitude: -85.38731829999999
     phone: 765-639-0671
 - id:
     bioguide: S001145
