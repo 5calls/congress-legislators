@@ -12244,22 +12244,6 @@
     bioguide: T000481
     govtrack: 412787
   offices:
-  - id: T000481-southfield
-    address: 26080 Berg Rd.
-    city: Southfield
-    state: MI
-    zip: '48033'
-    latitude: 42.4805925
-    longitude: -83.2789873
-    phone: 313-203-7540
-  - id: T000481-inkster
-    address: 26215 Trowbridge St.
-    city: Inkster
-    state: MI
-    zip: '48141'
-    latitude: 42.2939184
-    longitude: -83.2956234
-    phone: 313-463-6220
   - id: T000481-detroit
     address: 7800 W. Outer Drive
     city: Detroit
@@ -12268,6 +12252,14 @@
     latitude: 42.4203198
     longitude: -83.2146269
     phone: 313-463-6220
+  - id: T000481-southfield
+    address: 26080 Berg Rd.
+    city: Southfield
+    state: MI
+    zip: '48033'
+    latitude: 42.4805925
+    longitude: -83.2789873
+    phone: 313-203-7540
 - id:
     bioguide: T000482
     govtrack: 412781
