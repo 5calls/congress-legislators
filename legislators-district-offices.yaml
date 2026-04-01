@@ -2727,6 +2727,20 @@
     bioguide: C001125
     govtrack: 456860
   offices:
+  - id: C001125-reserve
+    address: 125 Regala Park Road
+    suite: Suite K135
+    building: River Parishes Community College
+    city: Reserve
+    state: LA
+    zip: '70084'
+  - id: C001125-new_orleans
+    address: 6803 Press Drive
+    suite: Suite 166
+    building: Southern University New Orleans
+    city: New Orleans
+    state: LA
+    zip: '70126'
   - id: C001125-gretna
     address: 200 Derbigny St
     suite: Suite 3200
@@ -2736,15 +2750,6 @@
     zip: '70053'
     latitude: 29.9159844
     longitude: -90.0676331
-  - id: C001125-new_orleans
-    address: 3401 General DeGaulle Dr
-    suite: Suite 100
-    city: New Orleans
-    state: LA
-    zip: '70114'
-    latitude: 29.924804
-    longitude: -90.0244505
-    phone: 504-381-3970
   - id: C001125-new_orleans-1
     address: 650 Poydras St
     suite: Suite 2525
@@ -2754,24 +2759,15 @@
     latitude: 29.9488746
     longitude: -90.0701146
     phone: 504-288-3777
-  - id: C001125-baton_rouge
-    address: 801 Harding Blvd
-    building: T.H. Harris Hall
-    city: Baton Rouge
+  - id: C001125-new_orleans
+    address: 3401 General DeGaulle Dr
+    suite: Suite 100
+    city: New Orleans
     state: LA
-    zip: '70807'
-    latitude: 30.5204744
-    longitude: -91.1855444
-  - id: C001125-gonzales
-    address: 615 E. Worthy St
-    suite: Rm 107
-    building: Ascension Parish Government Bldg
-    city: Gonzales
-    state: LA
-    zip: '70737'
-    latitude: 30.2243054
-    longitude: -90.9174972
-    hours: By appointment only
+    zip: '70114'
+    latitude: 29.924804
+    longitude: -90.0244505
+    phone: 504-381-3970
   - id: C001125-gonzales-1
     address: 925 W. Edenborne Pkwy
     suite: Room T117
@@ -2781,6 +2777,16 @@
     zip: '70737'
     latitude: 30.1909973
     longitude: -90.933357
+  - id: C001125-gonzales
+    address: 615 E. Worthy St
+    suite: Rm 107
+    building: Ascension Parish Government Bldg
+    city: Gonzales
+    state: LA
+    zip: '70737'
+    hours: By appointment only
+    latitude: 30.2243054
+    longitude: -90.9174972
 - id:
     bioguide: C001126
     govtrack: 456864
